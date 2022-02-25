@@ -1,0 +1,715 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pyretologia, a rational account of the cause &amp; cure of agues with their signes diagnostick &amp; prognostick. Also some specifick medicines prescribed for the cure of all sorts of agues; with an account of a successful method of the authors for the cure of the most tedious and dangerous quartans. Likewise some observations of cures performed by the aforesaid method. Whereunto is added a short account of the cause and cure of feavers, and the griping in the guts, agreeable to nature's rules and method of healing. Authore Rto Talbor pyretiatro.</title>
+            <author>Talbor, Robert, Sir, 1642-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62501</idno>
+            <idno type="STC">Wing T112</idno>
+            <idno type="STC">ESTC R200596</idno>
+            <idno type="EEBO-CITATION">99825077</idno>
+            <idno type="PROQUEST">99825077</idno>
+            <idno type="VID">29449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29449)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2065:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pyretologia, a rational account of the cause &amp; cure of agues with their signes diagnostick &amp; prognostick. Also some specifick medicines prescribed for the cure of all sorts of agues; with an account of a successful method of the authors for the cure of the most tedious and dangerous quartans. Likewise some observations of cures performed by the aforesaid method. Whereunto is added a short account of the cause and cure of feavers, and the griping in the guts, agreeable to nature's rules and method of healing. Authore Rto Talbor pyretiatro.</title>
+                  <author>Talbor, Robert, Sir, 1642-1681.</author>
+               </titleStmt>
+               <extent>[12], 77, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Robinson, and are to be sold at his shop near Greys-Inne Gate in Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word of the title has been transliterated from the Greek.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fever --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Drugs --  Prescribing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29449:1" rendition="simple:additions"/>
+            <pb facs="tcp:29449:1" rendition="simple:additions"/>
+            <p>Πυρετολογια, A Rational Account OF THE CAUSE &amp; CURE OF AGUES, With their SIGNES <hi>Diagnoſtick</hi> &amp; <hi>Prognoſtick.</hi> ALSO Some ſpecifick MEDICINES preſcribed for the Cure of all ſorts of AGUES; With an Account of a ſucceſsful Method of the Authors for the Cure of the moſt Tedious and Dangerous QUARTANS. Likewiſe ſome OBSERVATIONS of CURES performed by the aforeſaid Method. Whereunto is added A ſhort Account of the <hi>Cauſe</hi> and <hi>Cure</hi> of FEAVERS, and the GRIPING in the GUTS, agreeable to Nature's Rules and Method of HEALING.</p>
+            <p>
+               <hi>Authore</hi> R<hi rend="sup">TO</hi> TALBOR <hi>Pyretiatre.</hi>
+            </p>
+            <q>
+               <hi>Non multa, ſed multum.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Robinſon,</hi> and are to be ſold at his Shop near <hi>Greys-Inne</hi> Gate in <hi>Holborn,</hi> 1672.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:29449:2" rendition="simple:additions"/>
+            <pb facs="tcp:29449:2" rendition="simple:additions"/>
+            <head>To his worthy Friends <hi>B. Ayle<g ref="char:EOLhyphen"/>more, A. Blackwell,</hi> Eſquires; Mr. <hi>R. Alchorn,</hi> Mr. <hi>W. Thorn<g ref="char:EOLhyphen"/>ton,</hi> Citizens; and the reſt of thoſe worthy perſons that have been my Patients.</head>
+            <opener>
+               <salute>Worthy Patients and Patrons,</salute>
+            </opener>
+            <p>A Book ſent abroad into the World, is like a Ship lanched forth into the Sea; It muſt expect not always to ſail with the fair gale of judicious Cenſures, but ſometimes to meet with bluſtering ſtorms, raiſed either by the puffing blaſts of Criticks breath, or the envious murmurings of the ignorant: From theſe two, <hi>viz.</hi> the ſeeming-wiſe Critick, and the groſly Ignorant, I can expect little favour: the one will cavil at the Rational part, becauſe perhaps it doth not ſquare with his Imaginary Fancies;
+<pb facs="tcp:29449:3"/>the other will deny the Rational and Experimental parts; and both will endeavour to withdraw the breath of people from it, that wanting the air of Reputation, it may be either becalmed by that little notice people take of it, or elſe be ſtranded on the dangerous ſands of prejudice. I have there<g ref="char:EOLhyphen"/>fore choſen you my Patrons, whoſe known Reputation is ſuffi<g ref="char:EOLhyphen"/>cient to check the inſolence of a<g ref="char:EOLhyphen"/>ny that ſhall contradict or deny what your ſelves can teſtifie of your own knowledge and expe<g ref="char:EOLhyphen"/>rience. And I deſire that your mouthes may only ſpeak my Acti<g ref="char:EOLhyphen"/>ons, and let the world from them read my Merits; From whom I re<g ref="char:EOLhyphen"/>queſt nothing more than a kind ac<g ref="char:EOLhyphen"/>ceptance of that which is intended for a general good,</p>
+            <closer>
+               <signed>
+                  <hi>By him who is ever ready to ſerve, his Country and his Friends,</hi> R. Talbor.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:29449:3"/>
+            <head>To the Reader.</head>
+            <p>WHen I firſt began the ſtudy and practice of Phyſick, amongſt other Diſtem<g ref="char:EOLhyphen"/>pers incident to humane Bodies I met with a Quartan Ague, a diſeaſe that ſeem'd to me the <hi>ne plus ultra</hi> of Phyſick, being commonly call'd <hi>Ludibrium &amp; opprobrium Medi<g ref="char:EOLhyphen"/>corum,</hi> folly and deriſion of my Profeſſion, did ſo exaſperate my ſpi<g ref="char:EOLhyphen"/>rit, that I was reſolved to do what ſtudy or induſtry could perform, to find out a certain method for the cure of this unruly diſtemper: In order thereto I firſt dived into the cauſe of it, and to that end read moſt Authors that have writ on this ſub<g ref="char:EOLhyphen"/>ject; but I could find no more ſatiſ<g ref="char:EOLhyphen"/>faction from them, than I can in Phi<g ref="char:EOLhyphen"/>loſophy from that odd ſolution by oc<g ref="char:EOLhyphen"/>cult qualities. I conſidered then
+<pb facs="tcp:29449:4"/>there was no other way to ſatisfie my deſire, but by that good old way, ob<g ref="char:EOLhyphen"/>ſervation and experiment: To this purpoſe I planted my ſelf in <hi>Eſſex</hi> near to the Sea ſide, in a place where Agues are the expidemical diſeaſes, where you will find but few perſons but either are, or have been afflicted with a tedious Quartan: In this place I lived ſome years, making the beſt uſe of my time I could, for the improving my knowledge; curiouſly obſerving all Symptoms, Diagno<g ref="char:EOLhyphen"/>ſticks and Prognoſticks; by which obſervations, and the aſſiſtance of my reaſon (God bleſſing my endea<g ref="char:EOLhyphen"/>vours) I have attained to a perfect knowledge of the cure of the moſt in<g ref="char:EOLhyphen"/>veterate and pertinacious Agues, and can inform a patient to a day when I will remove the fits, and what method I will proceed in with him; though to ſeveral perſons, ac<g ref="char:EOLhyphen"/>cording to their ſeveral conſtitutions
+<pb facs="tcp:29449:4" rendition="simple:additions"/>and other complicated diſeaſes, I uſe different methods. If our Phyſi<g ref="char:EOLhyphen"/>cians would uſe the Primitive way of the Egyptians, apply themſelves to the ſtudy of ſome one diſeaſe, they would in a ſhort time bring this no<g ref="char:EOLhyphen"/>ble Science to great perfection; but idleneſs hath ſo poſſeſt this age, that moſt of us care for no more than a little ſmattering of every thing. As you accept theſe my <hi>Primitiae,</hi> you encourage him to proceed,</p>
+            <closer>
+               <signed>
+                  <hi>Who is Yours and his Countries Friend,</hi> R. Talbor.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:29449:5"/>
+            <pb facs="tcp:29449:5"/>
+            <head>To his Friend the Author on his Πυρετολογια.</head>
+            <lg>
+               <l>THe Learned Author in a gene<g ref="char:EOLhyphen"/>rous Fit,</l>
+               <l>T' oblige his Country hath of Agues Writ:</l>
+               <l>Phyſicians now ſhall be reproacht no more,</l>
+               <l>Nor <hi>Eſſex</hi> ſhake with Agues as be<g ref="char:EOLhyphen"/>fore,</l>
+               <l>Since certain health ſalutes her ſickly ſhoar.</l>
+               <l>Philoſophers ſpend oyle and time in vain,</l>
+               <l>And no <hi>Minerva</hi> iſſues from their brain,</l>
+               <l>Whilſt here a general good accrues to all,</l>
+               <l>Like the diſeaſe, 'tis Epidemi<g ref="char:EOLhyphen"/>cal.</l>
+               <pb facs="tcp:29449:6"/>
+               <l>Man, though the leſſer world, does far ſurpaſs</l>
+               <l>All that's ith' greater world, or ever was,</l>
+               <l>Whilſt he theſe earthly gods obliges thus,</l>
+               <l>He ſhall be ſtyl'd an <hi>Eſculapius.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>J. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="medical_treatise">
+            <div type="introduction">
+               <pb n="1" facs="tcp:29449:6"/>
+               <head>The Introduction to the Diſcourſe of Agues.</head>
+               <p>MAN being ſubject to as many and more diſtempers than his famous ſtructure can boaſt va<g ref="char:EOLhyphen"/>riety of parts, all the facul<g ref="char:EOLhyphen"/>ties of his ſoul have been continually em<g ref="char:EOLhyphen"/>ployed to find out Remedies for the pre<g ref="char:EOLhyphen"/>ſervation and reſtauration of his decaying body.</p>
+               <p>Now the firſt man <hi>Adam</hi> had a per<g ref="char:EOLhyphen"/>fect knowledge of the virtues of all Plants, Minerals, or Animals; but whether it was immediately dictated to him by the Creator, I ſhall not here argue; or whe<g ref="char:EOLhyphen"/>ther their innate vertues were engraven upon the front or ſuperficies of every creature, in thoſe lines we ſee on Plants, <hi>&amp;c.</hi> which I believe are not flou<g ref="char:EOLhyphen"/>riſhes <hi>a-la-vole</hi> of natures Pen, but fair
+<pb n="2" facs="tcp:29449:7"/>characters legible to our forefather <hi>Adam,</hi> and ſome few of his poſterity: But ſince the Fall, Soul and Body have deviated from their firſt perfection, all the facul<g ref="char:EOLhyphen"/>ties of the Soul are depraved, the Memory is ſubject to fail, the Judgement given to erre, and the Will often known to rebel, and become a voluntary ſlave to paſſion: ſo is his Body ſubject to ſo ma<g ref="char:EOLhyphen"/>ny infirmities, that he that ſhall conſider upon what ſlender filaments the life of man depends, will have greater cauſe to admire at the Providence of the Creator ſeen in the preſervation of Man, than at his Wiſdome known in his Creation, though both of them ſurpaſs the ſcale of our reaſon; for our Reaſon being fallen from its primitive purity, is as much con<g ref="char:EOLhyphen"/>fuſed as our Languages: now, <hi>tot homi<g ref="char:EOLhyphen"/>nes, tot ſententiae, &amp; tot rationes;</hi> Reaſon is at beſt but the harmony or muſical ſound of a well tuned <hi>Hypotheſis,</hi> where<g ref="char:EOLhyphen"/>with the fancy is delighted, and it ſuffers the ſame fate with our common Muſick; for as every tune delights not every ear, ſo every reaſon pleaſes not every fancy. We have nothing certain in Phyſick or Philoſophy but Mathematical and Expe<g ref="char:EOLhyphen"/>rimental
+<pb n="3" facs="tcp:29449:7"/>Demonſtration, and what we have learnt in either Science, hath been by in<g ref="char:EOLhyphen"/>duſtrious Obſervations and Experiments. Thus by the induſtrious toils and labours of thoſe Primitive <hi>Heroes</hi> (the ancient Empiricks) in their obſervations and ex<g ref="char:EOLhyphen"/>periments, the foundation of this famous ſtructure of Phyſick was laid, and in ſome ages by the ſame hands reer'd and finiſh<g ref="char:EOLhyphen"/>ed; but ſince poliſhed and refined by the more curious wits, but leſs induſtrious perſons of our latter ages: but were they more induſtrious and leſs witty, this con<g ref="char:EOLhyphen"/>jectural art of Phyſick would become more certain by the help of obſervations and experimental demonſtration.</p>
+               <p>The art of Phyſick began originally either from accidental Experiment, or Obſer<g ref="char:EOLhyphen"/>vations taken from the irrational Crea<g ref="char:EOLhyphen"/>tures, as Birds, Beaſts, and Fiſhes, which being led by ſome inſtinct of Nature to convenient remedies for the cure of their proper Maladies, have furniſhed Man with many wholeſome remedies and medicaments. Thus the virtue of Celan<g ref="char:EOLhyphen"/>dine in the effects of the eyes was learnt from the Swallow, who hath been often obſerved to ſqueeſe the juice of that herb
+<pb n="4" facs="tcp:29449:8"/>with her bill upon the blind eyes of her young, by which means they gain their ſight. It is obſerved of the Dear in <hi>Candy</hi> and thoſe parts, that being wound<g ref="char:EOLhyphen"/>ed with a poyſonous Arrow, they repair immediately to Dittany, an herb that grows plentifully in thoſe Countries, which by an Alexipharmick virtue expels both Arrow and Poyſon.</p>
+               <p>According to <hi>Virgil, Plutarch, Pliny,</hi> and others, Naturaliſts:</p>
+               <q>
+                  <l>
+                     <hi>Dictamnum genetrix Cretea carpit ab Ida</hi>
+                  </l>
+                  <l>
+                     <hi>Puberibus Caulem foliis, &amp; flore Coman<g ref="char:EOLhyphen"/>tem</hi>
+                  </l>
+                  <l>
+                     <hi>Purpureo: non illa feris incognita ca<g ref="char:EOLhyphen"/>pris</hi>
+                  </l>
+                  <l>
+                     <hi>Gramina, cum tergo volucres haeſere ſagittae.</hi> Virg. Aeneid.</l>
+               </q>
+               <p>Thus engliſhed by Mr. <hi>George Sandys.</hi>
+               </p>
+               <q>
+                  <l>With her white hand ſhe crops from <hi>Cretan Ide,</hi>
+                  </l>
+                  <l>The freſh-leav'd ſtalk with flower in Purple dy'd;</l>
+                  <pb n="5" facs="tcp:29449:8"/>
+                  <l>A ſoveraign herb, well known to fear<g ref="char:EOLhyphen"/>ful Deer,</l>
+                  <l>Whoſe trembling ſides the winged Ar<g ref="char:EOLhyphen"/>rows bear.</l>
+               </q>
+               <p>The <hi>Egyptian Ibes</hi> was the Inventor of Glyſters; a Bird not much unlike the Stork, and a great Enemy to Serpents, who filling his beak with ſalt water, and ſpouting it up into his guts when he was hard bound, taught the world the con<g ref="char:EOLhyphen"/>venience of provoking a ſtool that way.</p>
+               <p>Letting Blood we learnt from the Sea<g ref="char:EOLhyphen"/>horſe in <hi>Nilus,</hi> who finding himſelf op<g ref="char:EOLhyphen"/>preſſed with too much blood, doth at ſuch times come to the ſhore ſide, and with a ſharp reed or thorne pricks his leg, then ſtands and bleeds ſome time, and after<g ref="char:EOLhyphen"/>wards dips his leg in the mud, which ſtops the bleeding and heals the wound. I could inſert a great many more obſervations from Naturaliſts, but theſe are ſuffi<g ref="char:EOLhyphen"/>cient.</p>
+               <p>To theſe we muſt joyn that ancient cu<g ref="char:EOLhyphen"/>ſtom of bringing the ſick into their pub<g ref="char:EOLhyphen"/>lick market towns, where they were lodged in convenient places, ſuch as our Hoſpitals; there being placed one or
+<pb n="6" facs="tcp:29449:9"/>more Overſeers, who were ſworn to take care of the ſick, and adminiſter ſuch me<g ref="char:EOLhyphen"/>dicines as ſhould be preſcribed by ſuch as came to viſit the ſick (all perſons be<g ref="char:EOLhyphen"/>ing obliged to view the ſick before they acted in their own affairs,) who did com<g ref="char:EOLhyphen"/>monly give an account to the Overſeers whether they at any time had been affli<g ref="char:EOLhyphen"/>cted with any of thoſe diſeaſes the ſick laboured under, and if they had, by what means and remedies they were relieved and recovered; which remedies were ad<g ref="char:EOLhyphen"/>miniſtred to the ſick, and if they had good ſucceſs, they were recorded with a <hi>Pro<g ref="char:EOLhyphen"/>batum.</hi> By this way they in time came to have a ſtock of approved remedies for all known diſeaſes; and thus was the foun<g ref="char:EOLhyphen"/>dation of Phyſick laid: and theſe Over<g ref="char:EOLhyphen"/>ſeers took upon them the name of Empi<g ref="char:EOLhyphen"/>ricks (or experienced men) and ſuch a one was <hi>Archagathus</hi> the firſt Phyſician we read of, who was called from <hi>Pelopon<g ref="char:EOLhyphen"/>neſus</hi> to <hi>Rome,</hi> and for his skill in healing, was made a Freeman of that famous City. Then our Empiricks or Protomedicks began curiouſly and with much induſtry to obſerve the precedent ſigns of a diſeaſe, and the ſeveral ſymptomes in the begin<g ref="char:EOLhyphen"/>ning,
+<pb n="7" facs="tcp:29449:9"/>ſtate, and declination of every di<g ref="char:EOLhyphen"/>ſtemper; and by theſe obſervations they framed their Diagnoſticks and Progno<g ref="char:EOLhyphen"/>ſticks, by which they could foreſee a diſ<g ref="char:EOLhyphen"/>eaſe, and tell the event of it: With this knowledge only our Protomedicks were ſatisfied, <hi>viz.</hi> to know a diſtemper, and to foretel its event; as, whether long or ſhort, ſharp or mild, terminate in life or death, and to know how to cure it by approved Medicines delivered them by their predeceſſors, not troubling them<g ref="char:EOLhyphen"/>ſelves with that which we call the ratio<g ref="char:EOLhyphen"/>nal part of Phyſick, as to give reaſons for the cauſes of Diſeaſes, the operation of Medicines, and ſeveral ſuch niceties which after ages dived into. Then ſtarted up a ſecond ſort of Medicks which called themſelves Methodiſts; theſe did a little ſmooth and plain the former rough caſt ſtructure of the Empiricks, by reducing the ſeveral diſeaſes to general heads, as to the eight principal parts, <hi>viz.</hi> the head, heart, lungs, ſtomach, liver, ſpleen, reins, womb; and appropriating Medi<g ref="char:EOLhyphen"/>cines and Herbs to the ſeveral parts, cal<g ref="char:EOLhyphen"/>ling them Cephalicks, Cordials, Pectorals, Stomachical, Hepaticks, Spleneticks, Ne<g ref="char:EOLhyphen"/>phriticks,
+<pb n="8" facs="tcp:29449:10"/>Hyſtericks; and to theſe they added Arthritick Medicines appropriated to the joynts. Thus far the Methodiſt. Then came the Dogmatiſts, and they un<g ref="char:EOLhyphen"/>dertook to dive into the cauſes of Diſ<g ref="char:EOLhyphen"/>eaſes, and the reaſon of the various Ope<g ref="char:EOLhyphen"/>rations of Medicines; and having fra<g ref="char:EOLhyphen"/>med this Hypotheſis of the four humours, they made the Plethora or Cacochymy of thoſe humours in the various parts of the body, to cauſe the ſeveral diſeaſes: But for the reaſons of the operation of Me<g ref="char:EOLhyphen"/>dicines upon theſe humours, and their ap<g ref="char:EOLhyphen"/>propriation to ſuch parts of the body, they were abſurd and ridiculous; as, becauſe they did aſſimilate the form or colour of the part and humours, therefore they muſt operate upon that part or humour they did reſemble. This they rendred the reaſon why Eye-bright was ſpecifical to heal the diſtempers of the Eyes, becauſe its flow<g ref="char:EOLhyphen"/>er they ſay reſembles a Birds eye; elder Muſhromes, or Jewes Ears, good againſt the ſwelling of the Glandules of the Ears; Lung-wort for the Lungs; Beans for the Reins and Teſticles, from the ſimilitude they have to thoſe parts; ſo Rheubarb to purge Choller; Agarick, Phlegme; black
+<pb n="9" facs="tcp:29449:10"/>Hellebore, Melancholly, becauſe they are of that colour they ſuppoſe the humours to be of. But what rational man would be ſatisfied with ſuch reaſons? Were it not better to tell a Patient, theſe have been approved Medicines in thoſe caſes, con<g ref="char:EOLhyphen"/>firmed by the experience of many ages? Others in our latter dayes, ſtyling them<g ref="char:EOLhyphen"/>ſelves rational Phyſicians, have rendred more plauſible reaſons, being grounded upon Experimental Philoſophy: theſe by anatomizing the parts of Plants and Minerals, know the natures of them, as alſo the effects and conſtitutions of the whole body or parts, not only by ordinary diſſection, but by a ſpagyrical examina<g ref="char:EOLhyphen"/>tion and ſeparation of thoſe parts; and the reaſons grounded upon theſe tryals make a greater impreſſion on our belief, becauſe they are demonſtrable by ſome analogous Experiments.</p>
+               <p>Thus have I ſhown you <hi>(Phyſiophilus)</hi> the progreſs of Phyſick through the ſeve<g ref="char:EOLhyphen"/>ral ages to this preſent time. I ſhall now treat ſomething of the preſent ſtate of the Practice of Phyſick as it ſtands divided between the Learned Rational Phyſician, and the Illiterate Modern Em<g ref="char:EOLhyphen"/>pirick;
+<pb n="10" facs="tcp:29449:11"/>the one hath Law and Reaſon to warrant his Practice, the other only ſuc<g ref="char:EOLhyphen"/>ceſs; the one in his Practice is guided more by reaſon than experience, the o<g ref="char:EOLhyphen"/>ther not ſo much by reaſon as experience; but if a golden mean were found out be<g ref="char:EOLhyphen"/>tween both, it would be the beſt and ſu<g ref="char:EOLhyphen"/>reſt practice. We find many ſtrange vir<g ref="char:EOLhyphen"/>tues in Plants, Stones, and Minerals, which our reaſon cannot ſolve; and if we ſhould therefore leave off the uſe of them, we ſhould do great injury to Mankind. The polar virtue of the Loadſtone ſur<g ref="char:EOLhyphen"/>paſſes the ſcrutiny of the moſt ſolid judg<g ref="char:EOLhyphen"/>ment and refined reaſon, and yet nothing of greater uſe to Mankind in the univerſal benefit they receive by Navigation. The effects produced by the herb <hi>Lunaria,</hi> precious Stones, are beyond the reach of our Reaſon. That Gold and Antimony do emit virtue by Infuſion without loſs of weight of their ſubſtance, is unqueſtio<g ref="char:EOLhyphen"/>nable, and yet inconſiſtent with our rea<g ref="char:EOLhyphen"/>ſon. So have ſeveral Medicines been found by experience to be ſpecifically ſuc<g ref="char:EOLhyphen"/>ceſsful in the cure of many diſeaſes, and yet their compoſition, or the ſeveral in<g ref="char:EOLhyphen"/>gredients, may not ſquare with ſome of
+<pb n="11" facs="tcp:29449:11"/>our rational <hi>Hypotheſes.</hi> The <hi>Experimen<g ref="char:EOLhyphen"/>tum mirabile</hi> of <hi>Rulandus,</hi> ſeems to our common reaſon to be an aſtringent medi<g ref="char:EOLhyphen"/>cine by its compoſition, and yet by only applying it to the pulſe, it is found by ex<g ref="char:EOLhyphen"/>perience to purge. I knew an Empirick in the Country, that did uſe a prepara<g ref="char:EOLhyphen"/>tion of <hi>Opium</hi> with extraordinary ſucceſs in Pleuriſies, and in the Stone, and yet no<g ref="char:EOLhyphen"/>thing ſeems more Irrational, ſince we ſup<g ref="char:EOLhyphen"/>poſe <hi>Opium</hi> to bind, and contract the veſ<g ref="char:EOLhyphen"/>ſels, and ſo would hinder expectoration, that neceſſary evacuation by which nature is chiefly relieved in Pleuriſies, and by the ſame quality it ſhould exaſperate in the Stone, by cauſing greater obſtructions in the urinous paſſages. But I have ſeen contrary effects; for Nature being relie<g ref="char:EOLhyphen"/>ved by the ceſſation of pain, expectoration followed of courſe, either without or with little help of Priſan or Liquoriſh drink, and in the Stone I have known it to move Urine powerfully, and oftentimes ſtones have come forth upon the taking of it. I knew another performed ſtrange cures of Gouts with a mercurial Plaiſter, or Un<g ref="char:EOLhyphen"/>guent, and yet few perſons can give a rational account either of the cauſe of
+<pb n="12" facs="tcp:29449:12"/>the Gout, or why Mercury ſhould be ſpe<g ref="char:EOLhyphen"/>cifical to its cure. I have experienced it, and found it ſucceſsful in ſix or ſeven, and the Empirick, from whom I had the receipt, in hundreds. The gathering of Cinque<g ref="char:EOLhyphen"/>foil and Verbaſcum at certain elected times, obſerving the aſpects of the Pla<g ref="char:EOLhyphen"/>nets, ſeems to ſavour more of Superſti<g ref="char:EOLhyphen"/>tion than Reaſon; but whoſoever ſhall obſerve the contrary effects of them that are careleſly gathered, and thoſe gathered at elected ſeaſons, will be convinced; the one <hi>viz.</hi> Cinquefoyl, gathered in the hour of <hi>Jupiter,</hi> with ſome other neceſ<g ref="char:EOLhyphen"/>ſary obſervations Aſtrological, becomes a good ſpecifick in Quotidian, Tertian, and new Quartan Agues, and operates by Vomit; whereas the Cinquefoyl care<g ref="char:EOLhyphen"/>leſly gathered is unſucceſsful, and hath rarely any ſenſible operation: the like of Verbaſcum, obſerving the time (pre<g ref="char:EOLhyphen"/>ſcribed by <hi>Hartman</hi>) in gathering it, is a good ſpecifick in Catarrhes, and performs admirable effects. I have two or three hundred of theſe Empirical obſervations by me which I reſerve for a particular Treatiſe; I have made it my buſineſs ſome years to converſe with that ſort of
+<pb n="13" facs="tcp:29449:12"/>people, from whom a Phyſician may learn more of the true and experienced virtues of Medicines in a few dayes, than he ſhall by reading, or his own practice alone in many years; for theſe having but two or three medicines (delivered them by Tra<g ref="char:EOLhyphen"/>dition) which they call their <hi>Arcana's,</hi> they try them in all caſes, and find out thoſe virtues in them by accident, that a rational Phyſician would never dream of. It was the advice of an ingenious and learned Phyſician, Let not a Mountebank go out of the Town before you diſ<g ref="char:EOLhyphen"/>courſe him, and by exchanging ſome good medicine with him, get his, or rather than fail tell him two for one. This advice I have followed and found no ſmall benefit from it; for from theſe weeds (that ſtart up in every corner of our Phyſick Gar<g ref="char:EOLhyphen"/>den) I have (like the induſtrious Bee) ſuckt honey, as well as from the flowers of learning and ingenuity; and this (I ingenuouſly confeſs) not for my own, but my Countries benefit, and do intend to publiſh them, that they may come into the hands of learned and judicious perſons, who will make a better improvement of them than ſuch illiterate perſons in whoſe
+<pb n="14" facs="tcp:29449:13"/>hands the beſt of Medicines are often found to be like a well-temper'd Sword in a mad mans hand.</p>
+               <p>But methinks I hear ſome ill-natur'd people, from that Proverb, <hi>Homo cogno<g ref="char:EOLhyphen"/>ſcitur exſociis,</hi> affirm, becauſe I have made Empiricks my companions, I muſt be ſuch a one, (in their worſt ſence.) But their words I ſhall count no ſlander; for I had rather be, or be called an Empirick, (that is in Engliſh an experienced Phy<g ref="char:EOLhyphen"/>ſician (for <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> comes from <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>experior</hi>) than to be a Dogmatical or ra<g ref="char:EOLhyphen"/>tional Phyſician, without experience, and thoſe well-tried and approved Medicines I have gain'd by ſuch Empirical con<g ref="char:EOLhyphen"/>verſe: and I hope no judicious perſon will think the worſe of me for my induſtri<g ref="char:EOLhyphen"/>ous endeavours, to improve this noble ſci<g ref="char:EOLhyphen"/>ence of Phyſick.</p>
+            </div>
+            <div n="1" type="chapter">
+               <pb n="15" facs="tcp:29449:13"/>
+               <head>CAP. I. <hi>Of the <g ref="char:V">Ʋ</g>ſe and Offices of the Spleen and Stomach.</hi>
+               </head>
+               <p>IN order to your better underſtanding my following diſcourſe <hi>(Phyſiophilus)</hi> it will be neceſſary that I firſt treat of thoſe two noble parts, the Spleen and Stomach, which the ingenious <hi>Helmont</hi> calls the <hi>Duumvirate,</hi> whoſe defects give birth to all internal diſeaſes: I ſhall begin with the Spleen being the principal part deficient in theſe diſtempers.</p>
+               <div n="1" type="part">
+                  <head>1. <hi>Of the uſe and office of the Spleen.</hi>
+                  </head>
+                  <p>The Bulk of the Spleen is different, in ſome bigger, in ſome leſs, according to the variety of mens bodies; its figure com<g ref="char:EOLhyphen"/>monly oblong, its colour in children red, in adult perſons inclining to blackneſs, its ſubſtance of black blood congealed amongſt the fibers: It is furniſhed with three ſorts of Veſſels; firſt a branch
+<pb n="16" facs="tcp:29449:14"/>from the <hi>Coeliac</hi> Arteries, which diſper<g ref="char:EOLhyphen"/>ſeth it ſelf in many ſmall twigs amongſt the fibers: In the ſecond place, it hath a vein which ſprouts into it from the <hi>Por<g ref="char:EOLhyphen"/>ta,</hi> which is all ſpent and loſt in the ſub<g ref="char:EOLhyphen"/>ſtance of it, except two arms, the <hi>Vas breve,</hi> which goes away to the ſtomach, and the other the <hi>Haemorrhoidal</hi> vein, which runs away to the <hi>Anus:</hi> In the third place, it is furniſhed with nerves from the eight pair, which with their nu<g ref="char:EOLhyphen"/>merous threds and fibers, weave them<g ref="char:EOLhyphen"/>ſelves into a kind of Net, upon which the <hi>Parenchyma</hi> ſticks, leaving every where multitude of little holes, into which the ſmall arteries running every where diſ<g ref="char:EOLhyphen"/>perſed among the threds of the nerves, empty themſelves of the blood, which having paſſed through, and waſhed the whole ſubſtance of the Spleen, is again drunk up and carried away by the veins. The uſe of this part is to prepare a fer<g ref="char:EOLhyphen"/>ment for the blood, and to ſupply the ſto<g ref="char:EOLhyphen"/>mach with that acid juice or <hi>menſtruum</hi> that ſerves for the concoction of aliment. It prepares a ferment for the blood after this manner; The blood brought hither by the <hi>Coeliac</hi> Arteries, paſſing through many
+<pb n="17" facs="tcp:29449:14"/>turnings and windings, being ſtrained through the <hi>Parenchyma,</hi> doth leave be<g ref="char:EOLhyphen"/>hind it ſome ſalt and earthy parts; which after they have ſuffered ſome alteration by their attrition, and juſtling in the ſe<g ref="char:EOLhyphen"/>veral paſſages, through the cells, cavi<g ref="char:EOLhyphen"/>ties, and Pores of the <hi>Parenchyma,</hi> are by freſh blood, which perpetually flowes thither, by continual circulation carried back through the veins into the maſs of blood, in which they ſerve for a moſt uſe<g ref="char:EOLhyphen"/>ful ferment, by which the blood becomes rarified, and is made more brisk and lively, fit to circulate for the better ſupply of the parts.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>2. <hi>Of the uſe and office of the Stomach.</hi>
+                  </head>
+                  <p>In the next place <hi>(Phyſiophilus)</hi> I ſhall ſhow you the uſe and office of its com<g ref="char:EOLhyphen"/>peer, the Stomach.</p>
+                  <p>The office of the Stomach is to prepare <hi>Chyle,</hi> of which by ſeveral alterations by ſeveral ferments, is made that vital juice, the blood; the manner of which is as followeth: Food being conveyed into the Stomach, is by virtue of a ferment
+<pb n="18" facs="tcp:29449:15"/>or <hi>menſtruum,</hi> inherent in that part, re<g ref="char:EOLhyphen"/>duced into a whitiſh <hi>chyle ſubacid;</hi> from whence, when it hath attained Natures ends, it is emitted by the paſſage of the <hi>Pylorus</hi> into the <hi>Inteſtins,</hi> where it ſuffers another alteration by a bitter ferment in thoſe parts; the more pure part of which is ſucked up by the lacteous veſſels im<g ref="char:EOLhyphen"/>planted in the meſentery, and the groſ<g ref="char:EOLhyphen"/>ſer parts diſcharged by the inteſtins: In theſe lacteous veſſels runs the Chyle through the <hi>Pancreas</hi> into the <hi>Vena cava,</hi> by means of which it is conveyed into the right ventricle of the heart, and by mo<g ref="char:EOLhyphen"/>tion of that Engine by the pulmonary Ar<g ref="char:EOLhyphen"/>teries is flung into the Lungs; out of which, having there ſeparated ſome crude and phlegmatick Excrements, it haſts through the pulmonary Veins to the left ventricle of the Heart, out of which it is ſent by the <hi>aorta</hi> into all the parts of the body.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="19" facs="tcp:29449:15"/>
+               <head>CAP. II. <hi>A diſcourſe of the cauſe of Inter<g ref="char:EOLhyphen"/>mitting Feavers or Agues.</hi>
+               </head>
+               <p>I Know <hi>(Phyſiophilus)</hi> it will be expected by this curious Age, that I ſhould be as happy in finding out the cauſe, as I have been ſucceſsful in finding out the cure of this ſuppoſed unknown and uncura<g ref="char:EOLhyphen"/>ble diſeaſe, a Quartan Ague; which that I may not ſeem altogether Irrational and Empirical, I ſhall here endeavour to give the world my opinion of the ſeat and cauſe of Agues, which I ſhall not confi<g ref="char:EOLhyphen"/>dently aſſert (as ſome have their dreams and conjectures) but only propoſe and ſubmit it to the more mature judgments of the learned and judicious; and if any nice Critick ſhall take the pains to con<g ref="char:EOLhyphen"/>tradict it, I ſhall return him no other An<g ref="char:EOLhyphen"/>ſwer than that of <hi>Martial;</hi>
+                  <q>Carpere vel noli noſtra, vel ede tua.</q>
+               </p>
+               <pb n="20" facs="tcp:29449:16"/>
+               <p>The principal ſeat of Agues is the Spleen, which being deficient, the blood wanting its ferment is obſtructed in its circulation, and likewiſe the ferment of the ſtomach wanting a ſupply from this part, is depraved; ſo that Concoction not being well performed, tough viſcous humours are generated, which with the Chyle conveyed into the maſs of blood, do at certain periods when they arrive at the heart diſturb that noble part, by ob<g ref="char:EOLhyphen"/>ſtructing the paſſage of the chyle or blood; upon which violence offered to Natures chief Fortreſs, a trepidation of the whole microcoſme doth enſue, which laſts ſo long till by the impulſe of the blood or chyle following it, it is at laſt forced through: No ſooner doth the blood find a free paſſage, having been for ſome time dammed up, but it flows more vio<g ref="char:EOLhyphen"/>lently; as when a Sluyce is opened in a Mill, or other current of water; from which violent motion an ebullition of the blood doth enſue, which cauſeth the hot Fit: The Ebullition being ended, and the blood running again in its ordinary courſe, Nature relieves her ſelf by Tranſpiration, reſettling the blood diſturbed by the
+<pb n="21" facs="tcp:29449:16"/>commotion of the late Fit: Then doth the Patient continue well, till the morbifick matter come round again, continually re<g ref="char:EOLhyphen"/>cruiting it ſelf with freſh ſupplies from the imperfect digeſted chyle, till that cauſe be taken away, either by nature a<g ref="char:EOLhyphen"/>lone, by recovering ſtrength and vigour, or by help of proper Medicines, aſſiſting her againſt ſo ſubtil and potent an enemy. The diſtances of the Fits (ſome being once in 24 hours, as Quotidians; others once in 48 hours, as Tertians; and ſome but once in 72 hours, as Quartans,) are from the levity or ponderoſity of the <hi>ma<g ref="char:EOLhyphen"/>teria morbifica,</hi> whether Phlegme, Cho<g ref="char:EOLhyphen"/>ler, or Melancholly: The heavier bo<g ref="char:EOLhyphen"/>dy moving more ſluggiſhly in the ſan<g ref="char:EOLhyphen"/>guinary Channel than that which is lighter; as we ſee in a current of water, a piece of Firre ſhall move ſwifter than a piece of Oak, or heavier wood; and a Paper or Feather ſwifter than the Firre. The length or ſhortneſs of the Fits are from the quantity of the matter, more or leſs: Double Tertian, double and treble Quartans, are occaſioned by a quick ſup<g ref="char:EOLhyphen"/>ply of the morbifick matter; ſo that there may be two or three ſeveral maſſes of
+<pb n="22" facs="tcp:29449:17"/>the morbifick matter, in the veins, which arrive at the heart by ſucceſſion.</p>
+               <p>But ſince the moſt plauſible reaſons, un<g ref="char:EOLhyphen"/>leſs backt by ſome demonſtrable experi<g ref="char:EOLhyphen"/>ments, ſeem but ſuppoſitions, or conje<g ref="char:EOLhyphen"/>ctures; I ſhall inſtance one common expe<g ref="char:EOLhyphen"/>riment uſed for the cure of Agues; which though it doth not certainly cure, yet it always delays the fit, and that is ſtrong ligature to the pulſe, which by retarding the circulation of the blood, doth likewiſe hinder the coming of the morbifick matter to the heart, and it may accidentally cure (as ſome times it is known to do) by re<g ref="char:EOLhyphen"/>taining the morbifick matter, if it be on that ſide the ligature, that it muſt paſs under it before it arrive to the heart, where by the continual impulſe of the blood, the morbifick matter may be ſo diſſipated and diſunited, that it may never unite again. I have obſerved where it hath cured, the part hath been extraordi<g ref="char:EOLhyphen"/>narily ſwelled, and they endure a great deal of pain, and once a Gangrene happened upon this ligature.</p>
+               <p>Another confirmation of the cauſe of Agues, being from tough viſcous hu<g ref="char:EOLhyphen"/>mours, is that which the country people
+<pb n="23" facs="tcp:29449:17"/>in <hi>Eſſex</hi> and other parts call an Ague<g ref="char:EOLhyphen"/>cake. I have obſerved theſe in four Pa<g ref="char:EOLhyphen"/>tients; two were caſt out of the ſtomach by nature, and the other two by Emetick medicines: One of them was like a clot<g ref="char:EOLhyphen"/>ted piece of phlegme, about the bigneſs of a Wallnut, pliable like Glue or Wax, weighing about half an ounce; another about the bigneſs of the yolk of a Pullets Egge, and like it in colour, but ſtiffer, weighing about five drachmes; the other two of a dark colour, more tough, about the like bigneſs, and heavier. It is a ge<g ref="char:EOLhyphen"/>neral obſervation amongſt them, that their Ague comes away when they ſee thoſe Ague-cakes. In thoſe before mentioned it was verified, and I have reaſon to believe it, ſince the obſervation hath been con<g ref="char:EOLhyphen"/>firmed by ſo many experiments.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CAP. III. <hi>Of the Diagnoſtick Signs of Inter<g ref="char:EOLhyphen"/>mitting Fevers, or Agues.</hi>
+               </head>
+               <p>THe ſigns of Intermitting Fevers in general are theſe: They ſuddenly
+<pb n="24" facs="tcp:29449:18"/>invade the Patient with a trembling or ſhaking and vomiting, or at leaſt ſome provocation thereto, and ſometimes they have convulſive motions in the mouth and other parts. The hot fit is attended with heat, great thirſt, pains in the Head, ſhinings in the Eyes, a quick Pulſe, and ſometime with Phrenſies; the Urine is thick, crude, and ill-digeſted: The fits go off by ſweat, urine, and inſenſible tran<g ref="char:EOLhyphen"/>ſpiration, and return again at certain pe<g ref="char:EOLhyphen"/>riods, as once in twenty four, forty eight, or ſeventy two hours, more or leſs, and are diſtinguiſhed by the names of Quo<g ref="char:EOLhyphen"/>tidians, Tertians, and Quartan Agues.</p>
+               <div type="part">
+                  <head>Of the Diagnoſtick Signs of par<g ref="char:EOLhyphen"/>ticular Agues.</head>
+                  <div type="subpart">
+                     <head>Firſt of Quotidian Agues.</head>
+                     <p>The Quotidian Ague invades the ſick once in twenty four hours, with a trem<g ref="char:EOLhyphen"/>bling or chilneſs in the back, which ſhortly paſſes through the whole body; after which a mild and gentle heat fol<g ref="char:EOLhyphen"/>lows, with ſome ſwelling or pain in the <hi>hypochondria's;</hi> they continue eight, twelve,
+<pb n="25" facs="tcp:29449:18"/>and ſometimes twenty hours: The U<g ref="char:EOLhyphen"/>rine is pale, thin, and crude, and towards the end of the fit, thick, inclining to red<g ref="char:EOLhyphen"/>neſs; the pulſe flow and weak.</p>
+                  </div>
+                  <div type="subpart">
+                     <head>Of the ſigns Diagnoſtick in Ter<g ref="char:EOLhyphen"/>tian Agues.</head>
+                     <p>The Tertian Ague comes once in forty eight hours, with a great ſhaking, which is ſucceeded by a vehement heat, thirſt, head-ach, and, often, phrenſies, a high quick pulſe, urine high coloured, thick toward the end of the Fits, with a red ſedi<g ref="char:EOLhyphen"/>ment. The double Tertian, from an en<g ref="char:EOLhyphen"/>creaſe of the morbifick matter, comes twice in forty eight hours, and hath the ſame ſymptoms, by which it is known from a Quotidian.</p>
+                  </div>
+                  <div type="subpart">
+                     <head>Of the Signes Diagnoſtick in Quartan Agues.</head>
+                     <p>The Quartan Ague invades the Patient once in ſeventy two hours: Firſt with gapings, yawnings, and ſtretching of the limbs, paleneſs in the nails of the fingers and toes, and coldneſs in the extream
+<pb n="26" facs="tcp:29449:19"/>parts; then a tremor at the heart, and ſoon after a trembling or ſhaking through<g ref="char:EOLhyphen"/>out the whole body, which is mild at firſt, and afterwards encreaſeth gradually; after which follows a burning heat, dif<g ref="char:EOLhyphen"/>fuſing it ſelf through all the parts of the body; the pulſe in the beginning ſlow and weak, intermitting often, and that an hour or more before the fit; in the hot fit it is ſwift and high; the urine in the cold fit thin and wateriſh; in the hot fit higher coloured, and toward the latter end of the fit, thick; the ſweats in the be<g ref="char:EOLhyphen"/>ginning of the diſeaſe little, and after ſome continuance copious. Double Quartans afflict the patient two days, and intermit one; and treble Quartans come once every day, but differ from the Quo<g ref="char:EOLhyphen"/>tidian in their ſymptomes, and by their beginning, which is always a ſingle Quar<g ref="char:EOLhyphen"/>ran. The like may be ſaid of double Quartans, whoſe cauſes are treated of be<g ref="char:EOLhyphen"/>fore.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="27" facs="tcp:29449:19"/>
+               <head>CAP. IV. <hi>Of the Prognoſticks in Agues.</hi>
+               </head>
+               <div type="part">
+                  <head>Of the Prognoſticks in Quotidian Agues.</head>
+                  <p>QUotidians generally invade the Pati<g ref="char:EOLhyphen"/>ent about the Winter ſolſtice, and laſt till the ſpring, if they be not cured be<g ref="char:EOLhyphen"/>fore by proper medicines. In the Spring they go off with a little help, except in ca<g ref="char:EOLhyphen"/>chectical bodies, which do often fall into Dropſies, and other Chronick diſeaſes: Its cure in the beginning is eaſie, but if complicated with chronick diſtempers, it is as hard to be cured as the Quartan Ague.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Prognoſticks in Tertian Agues.</head>
+                  <p>Tertian Agues invade the ſick in the Spring, or Summer ſolſtice, and are often known to go off in ſeven or fourteen days without help of Phyſick; but it is not good truſting to it; for the fits of a Tertian
+<pb n="28" facs="tcp:29449:20"/>are ſo violent, that nature is often foiled before the fourth fit, and the Patient many times miſcarries for want of timely help: Its cure in the beginning is very eaſie, <hi>viz.</hi> in one or two fits, and afterwards, if nature have any ſtrength, without great trouble, if a proper method be uſed. There are ſome Tertians (whoſe ſymptoms are mild, and ſuch generally happen after a Fever) that laſt a month or two, and often change to Quartans.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Prognoſticks in Quartan Agues.</head>
+                  <p>Quartans generally ſeize the ſick about the Aequinoctials (that is about <hi>September</hi> or <hi>March</hi>) but more in the Autumnal than Vernal Aequinox; they rarely go off alone, but have been known to continue two or three years commonly, and in ſome bodies ſeven, nay, twelve years; and in that time bringing ſuch a <hi>Cachexia,</hi> or ill habit upon the body, that they live miſerably, or die of a Dropſie or Conſumption, ſoon after. Amongſt the great number of per<g ref="char:EOLhyphen"/>ſons I have been converſant with, that have had this diſtemper, I could never
+<pb n="29" facs="tcp:29449:20"/>meet with any whoſe Agues were con<g ref="char:EOLhyphen"/>quered, either by nature, or thoſe ill cures they ſometimes accidentally met with, though it continued but half a year, but they were troubled with great obſtru<g ref="char:EOLhyphen"/>ctions in the ſpleen, an ill digeſtion in the ſtomach, and a general <hi>cachexia;</hi> ſo that at firſt ſight I could read where a Quartan did lodge, or had been lodged. A Quar<g ref="char:EOLhyphen"/>tan Ague is the moſt ſubtil Enemy nature hath to deal with; ſometimes it ſeems to make a truce, or take its final leave; but breaking it, and rallying again in few days, ſurpriſing her who perhaps was mean time buſied in managing the great affairs in the oeconomy of the body, and rectifying the diſorders that unruly gueſt had made in it: Other times, it ſlightly creeps upon the body, and doth not ſhake the frame, lulling the Patient aſleep; whilſt nature watching its coming, is de<g ref="char:EOLhyphen"/>ceived, and performs not what ſhe in<g ref="char:EOLhyphen"/>tended, or could have done, if the Enemy had appeared in open hoſtility. I have obſerved that thoſe Patients who had mild fits, (as they thought them) becauſe they generally ſlept, and were not much ſenſible of them, were longeſt troubled
+<pb n="30" facs="tcp:29449:21"/>with them. And ſuch Agues are harder to be cured than thoſe where theſe fits are more ſtrong and violent. It ſometimes will take its leave for a fortnight, and re<g ref="char:EOLhyphen"/>turn again with more violence; at other times it divides it ſelf in two or three parts, making the double and treble Quartan.</p>
+                  <p>It very often deceives the Patient a<g ref="char:EOLhyphen"/>bout <hi>May,</hi> and bids farewell, and as cer<g ref="char:EOLhyphen"/>tainly returns about <hi>Auguſt,</hi> as it went off. I never could yet read or hear of any Quar<g ref="char:EOLhyphen"/>tan, diſcharged by nature without help of means, but went off about the Aequi<g ref="char:EOLhyphen"/>noctials, but moſt generally about the vernal Aequinox, <hi>viz. March,</hi> and then oftentimes cauſed by the imprudence of Phyſicians to return, by their giving Pur<g ref="char:EOLhyphen"/>ges, thoſe imaginary helps to nature, but pernicious in this diſtemper, becauſe they do weaken and debilitate nature, and ferment that humour ſhe had concocted and precipitated.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="31" facs="tcp:29449:21"/>
+               <head>CAP. V. <hi>Of the ſeveral Remedies uſed for the cure of Agues.</hi>
+               </head>
+               <p>YOu have often heard <hi>(Phyſiophilus)</hi> that the number of Medicines in<g ref="char:EOLhyphen"/>vented and uſed for the cure of Agues, exceed all others: the reaſon is, our Phy<g ref="char:EOLhyphen"/>ſicians in all ages have miſtaken its cauſe or care, and have only ſhot at a venture, as a blind man at a mark, ſometimes cu<g ref="char:EOLhyphen"/>ring, but more often failing, trying all things they could think of, or meet with, hoping at laſt to meet with ſomething that would do; and having after the obſer<g ref="char:EOLhyphen"/>vations of many Ages, and the experiments of many hundred Medicines, at laſt found out ſomething that would ſometimes cure, they thought themſelves happy, and began to write diſcourſes of the cauſe and cure of Agues, though their ſuppoſed ſpecificks were ſpecifical only to ſome particular conſtitutions, and not to the diſeaſe; more often failing than curing. Hence it came that Agues (and eſpecially Quartans) were called <hi>Opprobrium Medicorum,</hi> the
+<pb n="32" facs="tcp:29449:22"/>reproach of Phyſicians, which is now taken off; for I do aſſert, that a Quartan Ague is as eaſily cured as any chronick diſtem<g ref="char:EOLhyphen"/>per the body of man is incident to, and will undertake the cure, and perform it with as much certainty, as a Surgeon can heal a cut finger.</p>
+               <div type="part">
+                  <head>Of Medicines uſed in the cure of Quotidians.</head>
+                  <p>Firſt of all, a Vomit is adminiſtred of <hi>In<g ref="char:EOLhyphen"/>fuſio Croci Metallorum ℥j, Oxymel. Scilli<g ref="char:EOLhyphen"/>tici</hi> 
+                     <g ref="char:dram">ʒ</g>vi; or if the Patient be weak, only <hi>Oxymel</hi> 3 or 4 Ounces before the fit, and ſweating in two or three following fits, with this following Bolus:</p>
+                  <p>℞ <hi>Rad. Contrayervae ſerpentariae an.</hi> 
+                     <g ref="char:dram">ʒ</g>ſs. <hi>laudani Lond. gr. j. Conſerv. roſarum vi<g ref="char:EOLhyphen"/>trioliſat.</hi> 
+                     <g ref="char:dram">ʒ</g>j. <hi>miſce, fiat bolus.</hi>
+                  </p>
+                  <p>After this, take a ſpoonful of <hi>Vinum Scilliticum</hi> every morning and night for three weeks or a month.</p>
+                  <div type="subpart">
+                     <pb n="33" facs="tcp:29449:22"/>
+                     <head>Topicks.</head>
+                     <p>Apply this Playſter to the wriſts and navel:</p>
+                     <p>℞ <hi>Myrrhae, Aloës, olibani, croci, an.</hi> 
+                        <g ref="char:dram">ʒ</g>j. <hi>Terebinth. Venet. q. ſ. fiat emplaſtrum.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Of Medicines uſed in Tertians.</head>
+                  <div type="subpart">
+                     <head>Emeticks.</head>
+                     <p>Juice or Infuſion of <hi>Aſarum, Sal vi<g ref="char:EOLhyphen"/>trioli,</hi> Infuſion of <hi>Crocus Mettallorum, oxy<g ref="char:EOLhyphen"/>mel ſimplex &amp; ſcilliticum.</hi>
+                     </p>
+                  </div>
+                  <div type="subpart">
+                     <head>Diaphoreticks.</head>
+                     <p>
+                        <hi>Aq. cardui benedicti</hi> ℥iij. <hi>ſalis abſyn<g ref="char:EOLhyphen"/>thij</hi> 
+                        <g ref="char:dram">ʒ</g>j. <hi>Succi limonum</hi> ℥j. <hi>miſce, fiat potio.</hi>
+                     </p>
+                     <p>
+                        <hi>Rob ſambuci</hi> ℥ſs. <hi>Aqua vel ſpir. lumbri<g ref="char:EOLhyphen"/>corum, mixtura de tribus, ſpir. Theriacalis Camphorat. Crollii.</hi>
+                     </p>
+                  </div>
+                  <div type="subpart">
+                     <head>Topicks to the Wriſt and Feet.</head>
+                     <p>
+                        <hi>Conſerva roſarum</hi> 
+                        <g ref="char:dram">ʒ</g>ij. <hi>croci pulveriſati</hi> 
+                        <g ref="char:dram">ʒ</g>j. <hi>carpis applicand.</hi> Cataplaſmes of Plantane, Mouſeare, Tormentill, to the Wriſts: To the Feet apply this Cataplaſme;
+<pb n="34" facs="tcp:29449:23"/>℞ <hi>Carnis Halecium ex muria</hi> ℥ij. <hi>Ra<g ref="char:EOLhyphen"/>dicis brioniae</hi> ℥j. <hi>ſaponis nigri</hi> ℥iſs. <hi>ſalis nigri hiſpanici</hi> 
+                        <g ref="char:dram">ʒ</g>vj. <hi>miſce, fiat cata<g ref="char:EOLhyphen"/>plaſmus.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Of Medicines uſed in Quartans.</head>
+                  <div type="subpart">
+                     <head>Digeſtives.</head>
+                     <p>
+                        <hi>Sal Tartari, Tartarum vitriolat.</hi> &amp;c.</p>
+                  </div>
+                  <div type="subpart">
+                     <head>Emeticks.</head>
+                     <p>
+                        <hi>Infuſio Croci mettallorum, Abſynthiaci Minſichti, ſal vitrioli, pulveris Radicum aſari ad</hi> 
+                        <g ref="char:dram">ʒ</g>j. <hi>Aluminis Rochae</hi> 
+                        <g ref="char:dram">ʒ</g>iſs. <hi>pul. nu<g ref="char:EOLhyphen"/>cis moſchat.</hi> 
+                        <g ref="char:dram">ʒ</g>ſs. <hi>miſce oxymel ſcillit. Mer<g ref="char:EOLhyphen"/>cur. vicae ad gr.</hi> 6. <hi>cum multis aliis.</hi>
+                     </p>
+                  </div>
+                  <div type="subpart">
+                     <head>Diaphoreticks.</head>
+                     <p>℞ <hi>Rob. ſambuci, extractum gentiani, ana</hi> 
+                        <g ref="char:dram">ʒ</g>iſs. <hi>ſalis Abſynthij</hi> 
+                        <g ref="char:dram">ʒ</g>ſs. <hi>laudani gr.</hi> j. <hi>miſce, fiat bolus; Arcan. duplicati</hi> 
+                        <g ref="char:dram">ʒ</g>ſs. <hi>Bezoardicum Joviale; Bezoard. minerale; elixir Tartari,</hi> &amp;c.</p>
+                  </div>
+                  <div type="subpart">
+                     <head>Topicks.</head>
+                     <p>
+                        <hi>Emplaſt, Febrifugum Helmontis.</hi> ℞ <hi>Ar<g ref="char:EOLhyphen"/>tificum naturae domeſt. cum toto</hi> ℥j. <hi>contun<g ref="char:EOLhyphen"/>dantur,
+<pb n="35" facs="tcp:29449:23"/>&amp; optimè miſceantur, Balſami ve<g ref="char:EOLhyphen"/>get abilis</hi> ℥ij. <hi>lachrymarum pini inſpiſſ at.</hi> ℥j. <hi>miſce, fiat emplaſt. Carpis applicandum hor.</hi> 2. <hi>ante paroxyſmos.</hi>
+                     </p>
+                  </div>
+                  <div type="subpart">
+                     <head>Spleneticks.</head>
+                     <p>
+                        <hi>Aqua Penoti, Tartarum Chalybiatum, Spiritus Tartari Alkaliſatus, Tinctura Tar<g ref="char:EOLhyphen"/>tari,</hi> &amp;c.</p>
+                     <p>I have inſerted theſe Medicines <hi>(Phy<g ref="char:EOLhyphen"/>ſiophilus)</hi> that my Countrymen may not be left remedileſs, they being the choyceſt and beſt Medicines I could meet with, be<g ref="char:EOLhyphen"/>fore I found out my particular and more effectual method.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <head>CAP. VI. <hi>Of Charms uſed for the cure of Agues, how they operate; with the dangerous conſequences that have attended the uſe of them.</hi>
+               </head>
+               <p>THe Quartan Ague, being ſuppoſed by the people to be an unknown
+<pb n="36" facs="tcp:29449:24"/>and uncurable diſtemper, becauſe it ſo often reſiſts the force of Medicines, and baffles the skill of Phyſicians; they have left untried nothing that hath been pro<g ref="char:EOLhyphen"/>poſed to them for a cure. Thus amongſt other fancies came in the uſe of Charms, Sigils, <hi>&amp;c.</hi>
+               </p>
+               <p>Charms are of three ſorts; either words of no ſenſe, which diſturb not the Imagination; or words of ſimilitude, that humour and feed the Imagination; or Scripture words, which, out of a conceit that ſuch texts and words have power, do ſtrengthen the Imagination.</p>
+               <p>Sigils are certain characters engraven upon Metals, impregnated with the in<g ref="char:EOLhyphen"/>fluences and virtues of certain Stars and appropriated Plants. Theſe are com<g ref="char:EOLhyphen"/>monly found to be of greater force than Charms; becauſe, being back'd with ſome ſhew of reaſon, they more confirm and corroborate the Imagination. By the help of theſe laſt, <hi>Paracelſus</hi> is ſuppoſed to do his great Cures.</p>
+               <p>I ſhall next <hi>(Phyſiophilus)</hi> acquaint you with two or three Examples, wherein you will find what dangerous effects were produced by the uſe of theſe unlawful means.</p>
+               <pb n="37" facs="tcp:29449:24"/>
+               <p>Being at <hi>Cambridge</hi> about <hi>November</hi> 1666, in an Inn, a Country-man came into the room where I was, ſhivering with a fit of a Quartan Ague: A certain Smith that work'd to the houſe, being in the ſame room, enquired of him how long he had been troubled with an Ague? The man anſwered, about three months, and that it was a Third Ague, that he had tried many Medicines to little purpoſe, and now was reſolved to try no more, but endeavour to work it away. The Smith replied, he had a Remedy that did never ſail to cure any Ague, and perſwaded the Country-man to try it, promiſing to give it him for a Pot of Ale. The Medicine being to be purchaſed at ſo eaſie a rate, the Country-man accepts it. I fat by all this while, expecting to ſee the remedy, which proved a Charm; the word was <hi>Kalamiris,</hi> which was to be writ nine times on ſeveral Papers, abating a Letter every time, till it came to the laſt letter <hi>K:</hi> Theſe nine Papers were wrapt up cloſe, and put into nine Raiſons of the Sun, and were ordered by the Smith to be ſwallow<g ref="char:EOLhyphen"/>ed down at nine mornings following, be<g ref="char:EOLhyphen"/>ginning with the largeſt, and ending with
+<pb n="38" facs="tcp:29449:25"/>the leaſt. The Country-man went his way, and ſo far as I could perceive, of a pretty ſtrong and healthy conſtitution, free from any complicated diſeaſe: But the next news I heard of the Country-man was, that upon the next Fit-day, ha<g ref="char:EOLhyphen"/>ving ſwallowed three of his nine charmed Rayſons, he died.</p>
+               <p>Another ſad effect happened upon the uſe of a Charm in <hi>Eſſex;</hi> which was thus:</p>
+               <p>A Farmers Wife having long been af<g ref="char:EOLhyphen"/>flicted with a Quartan Ague, a Beggar one day coming to the door, and obſer<g ref="char:EOLhyphen"/>ving her to be then in a fit, told her, he could cure her of that troubleſome diſ<g ref="char:EOLhyphen"/>eaſe: She willing to be rid of it, accepts his proffer, and deſires him to give her ſomething for it. The Beggar call'd for a Pen and Ink, and writ ſome words in a piece of Paper, which he ſeal'd up, and bid her wear it about her neck for two or three months, and then to burn it. She uſed the Charm according to his directi<g ref="char:EOLhyphen"/>ons, and from that time was freed from her Ague, and continued well two months af<g ref="char:EOLhyphen"/>ter: About which time, the Miniſter of the Pariſh coming to her houſe, and en<g ref="char:EOLhyphen"/>quiring
+<pb n="39" facs="tcp:29449:25"/>after her health, ſhe relates to him the paſſages before mentioned; Upon which, the Miniſter told her the danger of uſing Charms, and that he believed it was the Devil, or ſome meſſenger of his that gave her the Charm; and wiſhed her to pull it off; which ſhe did, and was going to burn it: But he took it from her, and opened it, where he found written theſe words, <hi>Ague farewell, till we meet in Hell.</hi>
+               </p>
+               <p>This then confirmed the Miniſter in what he had ſaid, <hi>viz.</hi> that the Devil, or ſome Meſſenger of his, had given her the Charm, and exhorts her to repen<g ref="char:EOLhyphen"/>tance. But this was the event; the next day ſhe had a violent fit of her Ague, and in that fit became diſtracted, and in a little time after made away her ſelf.</p>
+               <p>Sigils are made of an electral Metal, either ſimple, or mixt, under the domi<g ref="char:EOLhyphen"/>nion of ſome proper Planet; as the Lord of the tenth Houſe, in the Scheme of the decumbiture, if he be well dignified and aſpected. This is melted down in an e<g ref="char:EOLhyphen"/>lected hour, and quenched or infuſed in the juice of ſome proper ſpecifick Plants, impregnated with their own or other ana<g ref="char:EOLhyphen"/>logous
+<pb n="40" facs="tcp:29449:26"/>ſalts: Then it is melted again, and caſt into ſome proper Figure, on which is to be engraved the characters of ſome friendly Planets; and this worn about the neck or other proper part, is intended to cure the diſeaſe. Sigils are likewiſe made for Epidemical Diſeaſes, and ſerve indifferently for all perſons having the ſame diſeaſe.</p>
+               <p>Another Relation I had from a credi<g ref="char:EOLhyphen"/>table perſon of the effects of a Sigil, made againſt Epileptick Fits. A child in <hi>Cam<g ref="char:EOLhyphen"/>bridgeſhire,</hi> being troubled with Epilep<g ref="char:EOLhyphen"/>tick Fits, ſome years, internal means proving unſucceſsful, the Father of the child conſults an Aſtrological Empirick, that lived near him; who undertakes the cure for ten pound. Both thus agreed, the Aſtrologer, with the help of ſome of his brotherhood in <hi>London,</hi> makes a Sigil of electral Metal, and orders it to be hung about the childs neck, which did immediately cure the child, and free it from Fits, during the time of its wearing the Sigil. But at length the Aſtrologer demanding Money for his cure, was re<g ref="char:EOLhyphen"/>fuſed payment, and inſtead of it, was ap<g ref="char:EOLhyphen"/>prehended, and carried before a Juſtice
+<pb n="41" facs="tcp:29449:26"/>of the Peace for a Sorcerer; but he there cleared himſelf, and by the Juſtices or<g ref="char:EOLhyphen"/>der had his Sigil returned: upon which the Fits return with greater violence, and in a few days the Child dies. And not long after the Aſtrologer, as ſtrangely, with a ſlight fall he got by wraſtling, after which he never ſpoke or ſtirr'd.</p>
+               <p>Thus, you ſee, <hi>(Phyſiophilus)</hi> how juſtly they are puniſhed that leave the lawful way, and refuſe the help of Phyſi<g ref="char:EOLhyphen"/>cians, which are ſtyl'd in Scripture the hands of God, and ſeek for help from the hands of the Devil; who ever makes a palliative cure, ſometimes pretending to heal, that he may have the opportunity of future miſchief. As to Agues, I can aſſure you, where-ever I met a Patient that uſed Charms, I found the diſeaſe more difficult to remove. Let theſe Examples be caveats.</p>
+               <p>
+                  <hi>Deme veneficiis, Carminibúſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fidem.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="42" facs="tcp:29449:27"/>
+               <head>CAP. VII. <hi>The Author's particular method of curing all ſorts of Agues.</hi>
+               </head>
+               <p>I Firſt adminiſter a convenient doſe of a ſpecifical Emetocathartick Powder (which was communicated to me by the name of <hi>Febrifugum Riverii;</hi>) It is com<g ref="char:EOLhyphen"/>poſed of three <hi>Herculean</hi> Medicines, each of them requiring twelve ſeveral labours in their preparations: To which is added a fourth, which is not unfitly call'd <hi>A<g ref="char:EOLhyphen"/>thleta;</hi> becauſe like a powerful Champion, it diſſipates, and expels all Natures ene<g ref="char:EOLhyphen"/>mies; It agrees likewiſe with that ac<g ref="char:EOLhyphen"/>count <hi>Riverius</hi> gives of the operation, doſe, and ſucceſs of his <hi>Febrifugum,</hi> (though of the laſt, <hi>viz.</hi> ſucceſs, I might boaſt more than he.) This <hi>Febrifugum</hi> is adminiſtred three hours before the Fit; after its operation, which is very mild, and the Patient got to bed, a Febrifuge Cor<g ref="char:EOLhyphen"/>dial is given, which operates gently by ſweat and urine, for five or ſix hours: In the interval I adminiſter a Cordial Elixir,
+<pb n="43" facs="tcp:29449:27"/>that rectifies the ſtomach and ſpleen, re<g ref="char:EOLhyphen"/>moves obſtructions, and reduces them to a due temperament. If the Ague be a Tertian, or new Quotidian, this method cures them; but if it be a long Quoti<g ref="char:EOLhyphen"/>dian or Quartan, at the ſecond fit I give a more powerful ſpecifick, which, <hi>pro re natâ,</hi> is made to work either by ſweat and urine, or only by urine and inſen<g ref="char:EOLhyphen"/>ſible tranſpiration. This ſpecifick is a preparation from four Vegetables, where<g ref="char:EOLhyphen"/>of two are foreign, and the other dome<g ref="char:EOLhyphen"/>ſtick; At the third fit I adminiſter a ſpe<g ref="char:EOLhyphen"/>cifical ſplenetick medicine, which is a preparation from five or ſix Vegetables, <hi>pro re natâ,</hi> whereof two only are foreign, and the reſt domeſtick; upon the taking of which, I adviſe my Patient to walk or ride abroad, and never fail upon this doſe to remove the Ague: Then with ſplene<g ref="char:EOLhyphen"/>tick and antiſcorbutick Medicines, or as the diſeaſes complicated require, taken for ſome time after, the diſeaſe is per<g ref="char:EOLhyphen"/>fectly cured, without any ill effects re<g ref="char:EOLhyphen"/>maining after it; all the complicated diſ<g ref="char:EOLhyphen"/>eaſes being with it eradicated, and the perſon left in good and perfect health. Neither (though this method ſeem tedi<g ref="char:EOLhyphen"/>ous)
+<pb n="44" facs="tcp:29449:28"/>are the Patients conſined within doors, or from any buſineſs above two or three dayes at moſt, during the whole courſe of their Cure. And let me adviſe the world to beware of all palliative Cures, and eſpecially of that known by the name of the Jeſuits Powder, as it is given by unskilful hands; for I have ſeen moſt dangerous effects follow the taking of that Medicine uncorrected and unpre<g ref="char:EOLhyphen"/>pared, <hi>viz.</hi> Convulſions, Epileptick Fits, Phrenſie, greater obſtructions than before; and ſuch as do take it have only a ceſſation for a time, the Ague return<g ref="char:EOLhyphen"/>ing in a fortnight or three weeks gene<g ref="char:EOLhyphen"/>rally. Yet is this Powder not altogether to be condemned; for it is a noble and ſafe medicine, if rightly prepared and corrected, and adminiſtred by a skilful hand; otherwiſe as pernicious a medi<g ref="char:EOLhyphen"/>cine as can be taken. I always find that Patient, whoſe Ague hath been palliated with Jeſuits Powder, to require a double method to cure him. Palliative Cures are always ſucceeded with ſome or moſt of theſe diſtempers, <hi>viz.</hi> Dropſie, Con<g ref="char:EOLhyphen"/>ſumption, Scurvy, Tumours in the Spleen, Hypochondriack pains, and always an ill
+<pb n="45" facs="tcp:29449:28"/>digeſtion; by which the Patient is con<g ref="char:EOLhyphen"/>demned to a miſerable life, or lingring death. For the prevention of which miſ<g ref="char:EOLhyphen"/>chiefs, <hi>Conſulite peritos,</hi> Take the advice of the skilful.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CAP. VIII. <hi>Of the proper Diet to be obſerved by ſuch as have Agues, and during my method of curing Agues.</hi>
+               </head>
+               <div n="1" type="part">
+                  <head>1. <hi>Diet to be obſerved in the Quotidian.</hi>
+                  </head>
+                  <p>IN this Diſtemper a thin moderate Diet is required; For nature is ſo often oppoſed by the diſeaſe, that ſhe hath lit<g ref="char:EOLhyphen"/>tle leiſure to attend the digeſtions. Let the diet therefore be little at a time, and often, during the intervals, and let it be broths of Chicken, Lamb, or Veal, well boyled with Parſly, Fennel, and Sparagus<g ref="char:EOLhyphen"/>roots; Let the drink during the Paro<g ref="char:EOLhyphen"/>xyſmes be White-wine Poſſet-drink, and
+<pb n="46" facs="tcp:29449:29"/>in the intervals, good freſh ſmall Beer, with a fourth part of White-wine.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>2. <hi>Diet to be obſerved in the Tertian.</hi>
+                  </head>
+                  <p>During the Fits, or two hours before, no food is proper; for drink in the Fits, let it be White or Rheniſh-wine poſſet<g ref="char:EOLhyphen"/>drink, tinctured with a little Saffron; or, in the hot ſit, ſmall Beer, with a fourth part of Rheniſh-wine. During the inter<g ref="char:EOLhyphen"/>miſſion, eat good broths, made of Mut<g ref="char:EOLhyphen"/>ton, Chicken, or young Cock, boyled with Plantane, Sorrel, Endive, and Dan<g ref="char:EOLhyphen"/>delyon.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>3. <hi>Diet to be obſerved in the Quartan.</hi>
+                  </head>
+                  <p>In the intervals, let the Diet be Chick<g ref="char:EOLhyphen"/>en, or Mutton-broth, boyled with the five opening Roots; a little Harts-horn and Cordial flowers, and ſometimes Gruels: and the gravey of Mutton ſtued with a little Clarret-wine, and Spice, with a little Anchovy, to give it a relliſh: Let their table drink be ſmall Beer, with a
+<pb n="47" facs="tcp:29449:29"/>fourth part of Rheniſh-wine, with Horſe<g ref="char:EOLhyphen"/>radiſh-roots, Rayſins of the Sun, and Orange-pill ſteep'd in it; and ſometimes ſmall Beer and Ale warmed with a gagge of ſteel: during the Fit, and four hours before, no food is to be eaten. For drink in the cold Fit, Rheniſh-wine alone, a<g ref="char:EOLhyphen"/>bout a glaſs or two; In the hot Fit, ſmall Beer and Lemmon, with a fourth part of Rheniſh; and Sack, or White-wine poſ<g ref="char:EOLhyphen"/>ſet-drink in the time of ſweating.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <head>CAP. IX. <hi>Obſervations of this ſucceſsful method in ſome long tedious Quartans, complicated with other Chronick diſeaſes.</hi>
+               </head>
+               <div n="1" type="part">
+                  <head>1. <hi>Obſervation in</hi> Eſſex.</head>
+                  <p>ABout the beginning of <hi>October</hi> 1666, I was call'd to viſit a child of <hi>B. A.</hi> Eſquire, which had been ſeverely handled, with a Quartan Ague, above a year: The Child was about ſix or ſeven
+<pb n="48" facs="tcp:29449:30"/>years of Age, a thin body, Conſumptive, having a deſperate Catarrh; and that which at firſt was a ſingle Quartan, was become a treble Quartan. I enquired after the method of the Phyſicians which had been there before me, and was in<g ref="char:EOLhyphen"/>formed that they had preſcribed only o<g ref="char:EOLhyphen"/>pening and purging drinks, and ſome ſtrengthning Cordials: but theſe gave little relief to nature, and did rather ex<g ref="char:EOLhyphen"/>aſperate than mitigate the diſtemper. In this weak condition I found the Child, and undertook the Cure, and performed it after this manner:</p>
+                  <p>I firſt adminiſtred eight grains of <hi>Fe<g ref="char:EOLhyphen"/>brifugum Riverii,</hi> which wrought very mildly with the child about ſix or ſeven times; after which I adminiſtred a Fe<g ref="char:EOLhyphen"/>brifuge Cordial, and the two following fits, the Specificks: then I gave a Splenetick wine for a month after, to be taken at ſeveral times in the day, by which, with proper Syrrups, and a tincture of Coral, the child was perfectly recovered.</p>
+               </div>
+               <div n="2" type="part">
+                  <pb n="49" facs="tcp:29449:30"/>
+                  <head>2. <hi>Obſervation in</hi> Eſſex.</head>
+                  <p>
+                     <hi>Octob.</hi> 25. 1667, I was called to viſit <hi>A. B.</hi> 
+                     <abbr>Eſq</abbr> at <hi>Malden,</hi> who had been afflicted with a Quartan Ague about a year, which was now trebled, and he ſo weak, that he had kept his bed twenty or more weeks, ſweating cold ſweats every Fit. I firſt adminiſtred 25 grains of <hi>Fe<g ref="char:EOLhyphen"/>brifugum Riverii,</hi> which wrought gently with him ſix or eight times: after its work<g ref="char:EOLhyphen"/>ing I gave him a Diaphoretick Pill, after which he fell into a warm breathing ſweat, and continued in it eight or nine hours: This threw off one of the fits, and it be<g ref="char:EOLhyphen"/>came a double Quartan. The next Fit I repeated the ſame method, and reduced it to a ſingle Quartan; and then by rea<g ref="char:EOLhyphen"/>ſon of his weakneſs, I deſiſted from gi<g ref="char:EOLhyphen"/>ving him any more Vomits, and gave Diaphoretick Cordials (for at that time I had none of my firſt Specifick by me;) neither was I ſo exact in the Cure, as I am now; yet in three weeks time I provided my Specificks, and adminiſtred them to him at the two following Fits, which re<g ref="char:EOLhyphen"/>moved his Ague, and he in a months
+<pb n="50" facs="tcp:29449:31"/>time, from the time I firſt came to him, was able to walk abroad, and hath been ever ſince free from an Ague, except two or three Fits, which he had upon a relapſe about a month after, which I may attribute to his neglect in taking the Splenetick Wine which was preſcribed to him. Yet it was taken off again by the Specificks, and ſome Diaphoretick Pills, and he reſtored to perfect health.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>3. <hi>Obſervation in</hi> London.</head>
+                  <p>
+                     <hi>July</hi> 8. 1671. Mr. <hi>W. T.</hi> conſulted me about his Ague, which was a ſingle Quar<g ref="char:EOLhyphen"/>tan, and had continued with him above a year, having tried many Medicines, and eſpecially (that ſuppoſed never failing Medicine) Jeſuits Powder, eight or ten times, till it had like to have taken away Ague and life together: As he inform'd me, that upon the taking of it, he lay for ſome hours convulſed, and in a manner bereav'd of life and ſenſes, and being re<g ref="char:EOLhyphen"/>covered, had only a ceſſation for three weeks, or a month, and then it returned with more violence. Now almoſt de<g ref="char:EOLhyphen"/>ſpairing of help, I undertook to cure him;
+<pb n="51" facs="tcp:29449:31"/>and <hi>July</hi> the ninth, being his Fit day, I ad<g ref="char:EOLhyphen"/>miniſtred 30. grains of <hi>Febrifugum Riverii,</hi> and after its working, a Cordial Diapho<g ref="char:EOLhyphen"/>retick. <hi>July</hi> the 11. I adminiſtred a Febrifuge Diaphoretick, with which he ſweat 8 or 9 hours. <hi>July</hi> 14. I gave him the firſt of my Specificks, after which he ſweat three or four hours: and <hi>July</hi> 18. the ſecond Specifick: Upon the taking of which, he walked four or five miles, and returned home without his Ague: then by the Splenetick and Antiſcorbutick Medicines for ſome time after, he was cured, and remaineth ſo ever ſince.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>4. <hi>Obſervation in</hi> London.</head>
+                  <p>
+                     <hi>Aug.</hi> 13. 1671. I undertook the Cure of the Daughter of Mr. <hi>R. A.</hi> in Covent-Garden, who had been afflicted with a Quartan Ague a year and half, or more, and had neglected no means that could be heard of for her recovery; as the advice of the ableſt Phyſicians in Town, change of Air, <hi>Tunbridg</hi> and <hi>Epſom</hi> waters; had taken Jeſuits Powder ten times, (with the like dangerous ſucceſs I mentioned in the laſt Obſervation:) But all proved ineffe<g ref="char:EOLhyphen"/>ctual;
+<pb n="52" facs="tcp:29449:32"/>her diſtemper encreaſed, and was complicated with the Scurvy in a high de<g ref="char:EOLhyphen"/>gree; obſtructions in the Spleen, and an incipient Dropſie. I firſt adminiſtred <hi>Febrifugum Riverii</hi> twenty grains; after which I gave the Cordial Diaphoretick; in the interval I gave an Elixir to rectifie the Stomach and Spleen: The next fit was adminiſtred the firſt of my Specificks; and the fit after, <hi>viz.</hi> the third fit from the time I began the Cure, ſhe took the ſecond Specifick; after which ſhe rid two or three miles out of Town, and re<g ref="char:EOLhyphen"/>turned home without her Ague; then ſhe continued four or five weeks, taking ſome Antiſcorbutick and Splenetick Medicines, and was perfectly recovered, and conti<g ref="char:EOLhyphen"/>nues in good health.</p>
+                  <p>I might inſert many more obſervations, but theſe may ſuffice, being as ſtrange and difficult Cures as I can expect to meet with. As I find the world grateful in their acceptance of this Treatiſe, I intend hereafter to publiſh a larger, and with it a fuller account of my particular Method, &amp; Medicines, not being willing to conceal ſuch uſeful remedies from the world any longer, than till I have made ſome little
+<pb n="53" facs="tcp:29449:32"/>advantage my ſelf, to repay that charge and trouble I have been at, in the ſearch and ſtudy of ſo great and unheard of ſe<g ref="char:EOLhyphen"/>crets.</p>
+                  <q>Non nobis ſed Patriae naſcimur.</q>
+                  <p>I would not have the tediouſneſs of the Cures mentioned in my Obſervations, de<g ref="char:EOLhyphen"/>terr any from ſeeking my help; for ex<g ref="char:EOLhyphen"/>cept their caſes be as difficult as thoſe there mentioned, I can perform the Cure in leſs time, as ſometimes in a fortnight, week, or leſs, as the diſeaſe may be.</p>
+                  <q>Multum novit, qui unum bene novit.</q>
+               </div>
+            </div>
+            <div type="appendix">
+               <pb n="54" facs="tcp:29449:33"/>
+               <head>Appendix. <hi>Nature's Method in time of Sickneſs, and by what means ſhe oppoſeth her Enemies.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>DIſeaſes, Nature's enemies, though their ſhapes and number be many, yet they may be reduced to theſe two general heads, <hi>viz.</hi> Chronick, and A<g ref="char:EOLhyphen"/>cute.</p>
+                  <p>Chronick diſeaſes move ſlowly at firſt, ſlightly invading Natures Caſtle; ſo that ſhe, <hi>Non vacans exiguis Rebus adeſſe,</hi> is often ſurpriſed: ſometimes the ſpirits evacuated, or evaporated, the ferment of the ſtomach becomes weak and feeble, not able to perform its Office; from hence proceeds a general decay of the parts, as in Conſumptions, <hi>&amp;c.</hi> other times the Ferment grows exorbitant, and will not admit of Nature's Rules; here food may be quickly diſſolved, but not ſo well digeſted: From hence comes the
+<pb n="55" facs="tcp:29449:33"/>Scurvy, Rheumatiſmus, vagrant Pains, <hi>&amp;c.</hi> ſometimes the paſſages as well for the conveyance of the Chyle, as evacuation of excrements, become ſo obſtructed, that not only a decay of the ſuperior parts do enſue, but Tumors and Inundations in the inferiour parts do ariſe; from whence Dropſies, <hi>&amp;c.</hi> do proceed.</p>
+                  <p>But although upon the firſt ſenſible in<g ref="char:EOLhyphen"/>vaſion of theſe diſeaſes, Nature uſeth her utmoſt endeavours to oppoſe them; yet in theſe Chronick diſtempers ſhe meets with ſo many obſtructions, that ſhe rarely or never overcomes them, without the aſſiſtance of her friend, the Phyſician.</p>
+                  <p>Acute diſeaſes charge more violently; but Nature having timely notice, ſhe pre<g ref="char:EOLhyphen"/>ſently applies all her force to oppoſe them, and is ſometime known to throw off theſe diſtempers without the help of a Phyſician. But when, either by the ir<g ref="char:EOLhyphen"/>regularity of the Patient in his diet, or otherwiſe, the diſtemper is re-inforced, or re-invigorated; Nature is often known to be over-power'd without the timely aſſiſtance of her friend, the Phyſician.</p>
+                  <p>In theſe Diſtempers, a ſudden and vio<g ref="char:EOLhyphen"/>lent charge being given to Nature, a
+<pb n="56" facs="tcp:29449:34"/>Tremor ſhakes the whole body; after that the Enemy having got into the ſan<g ref="char:EOLhyphen"/>guinary channel, all force is uſed to drive it out; but this is not done without much violence. Hence a Fermentation or E<g ref="char:EOLhyphen"/>bullition of the blood doth enſue, and con<g ref="char:EOLhyphen"/>tinues ſo long till the morbifick matter is diſcharged, part <hi>per poros cutis,</hi> and the reſt by the Ureters and Inteſtines.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II. <hi>Natures ſeveral Indications in Chronick and Acute diſeaſes, according to which the Phyſi<g ref="char:EOLhyphen"/>cian ought to frame his method of Cure.</hi>
+                  </head>
+                  <p>IN Chronick diſeaſes, where the ſto<g ref="char:EOLhyphen"/>mach is troubled with tough viſcous humours ſticking to the ſides thereof, Na<g ref="char:EOLhyphen"/>ture indicates vomiting, by the <hi>Nauſea</hi> that attends that part, and offers of Na<g ref="char:EOLhyphen"/>ture to be relieved that way. If theſe hu<g ref="char:EOLhyphen"/>mours be fluid, they generally participate of an acid quality, being impregnated with
+<pb n="57" facs="tcp:29449:34"/>a fixed acrimonious ſalt, which mixing with the chyle, converts it into a juice of the ſame nature, whoſe exorbitant acidity reſiſts the alteration deſigned by nature in the inteſtines; and by its acrimony, ex<g ref="char:EOLhyphen"/>timulating and exciting the expulſive fa<g ref="char:EOLhyphen"/>culty of thoſe parts, a Diarrhoea, Bloody-flux, griping of the Guts, <hi>&amp;c.</hi> are cauſed: Nature here indicates dulcoration of the Acrimony, and Evacuation, with emol<g ref="char:EOLhyphen"/>lient and lenitive Medicines. Where the paſſages by which the chyle is conveyed, or the excrements paſs through, are ob<g ref="char:EOLhyphen"/>ſtructed, occaſioned from a defect of the ſplenetick ferment, or otherwiſe, Nature indicates opening and attenuating Medi<g ref="char:EOLhyphen"/>cines, and ſuch as do excite the ferment of the Spleen.</p>
+                  <p>In Acute diſeaſes, as Nature is moſt watchful and induſtrious in oppoſing them, ſo is ſhe moſt curious in her indications, giving timely notice of the approach, and critical Battalia of the Enemy; for no ſooner doth the adverſary invade, but a ſudden tremor gives notice of the ap<g ref="char:EOLhyphen"/>proach of a potent Enemy, and when it aſſaults her, ſhe leaves all to oppoſe it. Therefore we are not to charge the ſto<g ref="char:EOLhyphen"/>mach
+<pb n="58" facs="tcp:29449:35"/>with too much, or any groſs food; for nature and the ſpirits being employed otherwiſe cannot attend the digeſtions: And no ſooner doth ſhe get a little re<g ref="char:EOLhyphen"/>ſpite, but ſhe indicates to the Phyſician (her friend) how part of the morbifick matter is expelled, and how the reſt by his aſſiſtance may be carried off. And this ſhe doth by thoſe pearly drops diſ<g ref="char:EOLhyphen"/>played upon the ſuperficies of the <hi>Cutis,</hi> as ſo many Trophyes of her late acquired Victory: but if the diſeaſe be ſo potent, that ſhe cannot by her own deſired way, <hi>viz. per poros cutis,</hi> throw it off; ſhe is forced to throw the morbifick matter into ſome other parts, till ſhe can reco<g ref="char:EOLhyphen"/>ver more ſtrength to vanquiſh it: and here ſhe acquaints her friend (the Phy<g ref="char:EOLhyphen"/>ſician) where ſhe hath lodged the ene<g ref="char:EOLhyphen"/>my, calling for his aſſiſtance.</p>
+                  <p>The ſymptomatical Pleuriſie and Phrenſie, and other ſymptoms in Fe<g ref="char:EOLhyphen"/>vers, are only ſigns of nature's weakneſs, who wanting ability to diſcharge the mor<g ref="char:EOLhyphen"/>biſick matter her own way, was forced to throw it into ſome other part, as into the Membrane <hi>Pleura,</hi> or into the <hi>me<g ref="char:EOLhyphen"/>ninges</hi> of the Brain, from whenoe Pleu<g ref="char:EOLhyphen"/>riſie
+<pb n="59" facs="tcp:29449:35"/>and Phrenſie happen in Fevers: when ſhe hath ſeparated and vanquiſhed her Enemies, ſhe uſually offers to drive them out at the inferior Poſtern, indica<g ref="char:EOLhyphen"/>ting to the Phyſician that way ſhe would be aſſiſted. I could inſtance many more, but to the rational this is ſufficient, to ac<g ref="char:EOLhyphen"/>quaint them with Natures method and wiſe government in the Oeconomy of our body, and that the true method of cure ought to be according to Natures own preſcripts and indications. For which I will bring the authority of that true friend of Nature, the learned <hi>Helmont,</hi> page 802. <hi>Naturam eſſe morborum medicatrioem, eam confortandam ideo non conſternandam:</hi> Nature being the Phyſicianeſs of diſeaſes, ſhe is to be ſtrengthned, and comforted, not frightned, or diſquieted.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="60" facs="tcp:29449:36"/>
+                  <head>SECT. III. <hi>A Diſcourſe of the cauſe and cure of continuing Fevers.</hi>
+                  </head>
+                  <p>FEvers, though by ſome diſtinguiſhed by various names, may be reduced to theſe two heads, <hi>viz.</hi> Putrid and Malig<g ref="char:EOLhyphen"/>nant.</p>
+                  <div type="part">
+                     <head>Of the ſigns Diagnoſtick of Putrid Fevers.</head>
+                     <p>They invade the ſick with a chilneſs in the back, and oftentimes ſhaking like an Ague; after that a burning heat, which diffuſeth it ſelf through the whole body, and increaſeth gradually to the 4th. 7th. 14th. or 21. day, and then decreaſeth ac<g ref="char:EOLhyphen"/>cordingly: It is attended with Thirſt, a quick Pulſe, high coloured Urine, Head<g ref="char:EOLhyphen"/>ach, Phrenſie, Convulſions; with many more dangerous ſymptoms, if the diſeaſe be high.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="61" facs="tcp:29449:36"/>
+                     <head>Of the ſigns Prognoſtick.</head>
+                     <p>Theſe Fevers happen commonly in the Spring or Summer; and if the ſymptoms be mild, they ſometimes go off in 4. or 7. dayes; if violent, they laſt 14. 21. and 42. dayes: when a Phrenſie, Delirium, Epilepſie, Convulſion, an irregular Pulſe, no ſigns of concoction are ſeen in the U<g ref="char:EOLhyphen"/>rine after a Criſis, or ſuch like violent ſymptomes appear, the Patient hardly recovers without powerful remedies, and the diligent care of the Phyſician, and his Aſſiſtants. But if milder ſymptoms ap<g ref="char:EOLhyphen"/>pear, as, if the thirſt be not great, the Patient not diſturbed in his ſleeps, and wakes ſomewhat refreſhed after them, good Criſes happen, and Nature at thoſe times gives ſome ſigns of a conqueſt, ei<g ref="char:EOLhyphen"/>ther by ſweat, urine, or a looſeneſs; the Patient recovers with little care and help.</p>
+                  </div>
+                  <div type="part">
+                     <head>Of the ſigns Diagnoſtick of Malig<g ref="char:EOLhyphen"/>nant Fevers.</head>
+                     <p>They ſeize the Patient with a pain in the back or head; the ſtrength is debili<g ref="char:EOLhyphen"/>tated
+<pb n="62" facs="tcp:29449:37"/>without any manifeſt cauſe, <hi>viz.</hi> more than could be expected from the na<g ref="char:EOLhyphen"/>ture or heat of the Fever, a dry Cough, palpitation of the Heart, involuntary Weeping; the heat in theſe diſtempers at firſt touch mild, but after ſome time more ſharp; the Pulſe low and quick, of<g ref="char:EOLhyphen"/>ten intermitting; the Urine oft-times pale, and like the urine of healthy perſons, but ſometimes thick, with a red ſediment; if the diſeaſe run high, Phrenſie, Convul<g ref="char:EOLhyphen"/>ſions, Madneſs happens; Spots, Puſtules, Blains, Buboes, Carbuncles, <hi>&amp;c.</hi> break forth.</p>
+                  </div>
+                  <div type="part">
+                     <head>Of the ſigns Prognoſtick in Malig<g ref="char:EOLhyphen"/>nant Fevers.</head>
+                     <p>Theſe Diſtempers generally afflict the people about the Autumn and Winter, more than the Spring and Summer; they laſt (according to the nature of the diſ<g ref="char:EOLhyphen"/>eaſe, and ſtrength of the Patient) four, ſeven, twenty one, or forty two dayes: The dangerous ſymptoms in theſe diſ<g ref="char:EOLhyphen"/>eaſes, are unquiet ſleeps; the Patient not relieved by them; madneſs; imbecillity of the retentive faculties; a creeping, low,
+<pb n="63" facs="tcp:29449:37"/>and irregular Pulſe; black and turbid U<g ref="char:EOLhyphen"/>rine; Convulſions, Epilepſies, <hi>&amp;c.</hi> other<g ref="char:EOLhyphen"/>wiſe, if the Patient is relieved by ſleeps, hath a regular pulſe, good Criſes happen, moderate ſweats, and the Patient appear<g ref="char:EOLhyphen"/>ing refreſhed after them, ſigns of concocti<g ref="char:EOLhyphen"/>on in the Urine, <hi>&amp;c.</hi> the Patient is in no danger.</p>
+                  </div>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. IV. <hi>A diſcourſe of the cauſe of Fe<g ref="char:EOLhyphen"/>vers.</hi>
+                  </head>
+                  <p>YOu know <hi>(Phyſiophilus)</hi> ſuch is the humour of this preſent age, that they are not contented with thoſe accounts of Fevers the Antients thought rational, but muſt have ſome new well-tuned <hi>Hy<g ref="char:EOLhyphen"/>potheſes</hi> to pleaſe their humours: that I may not be thought altogether Empirical, I will follow the ſteps of ſome of our mo<g ref="char:EOLhyphen"/>dern ingenious Phyſicians, and run with them in their rational accounts of Fevers, which being pleaſant and coherent, do gra<g ref="char:EOLhyphen"/>tifie our humours, and delight our curious fancies. But I muſt beg their pardon, if I
+<pb n="64" facs="tcp:29449:38"/>leave them ſometimes in the method of curing, and follow the experienced and well-troden paths of the Ancients.</p>
+                  <p>The <hi>Hypotheſis</hi> granted, that Blood and Wine are analogous, and obſerve the ſame rules and method in caſting out ex<g ref="char:EOLhyphen"/>traneous bodies; the cauſe of Fevers will be thus underſtood, when either from the defects of the <hi>Duumvirate, i. e.</hi> the Sto<g ref="char:EOLhyphen"/>mach and Spleen, change of Air or Diet, whereby the habit of the body is altered, violent Paſſions, retention of Excrements, and the like; an imperfect and ill-dige<g ref="char:EOLhyphen"/>ſted chyme is prepared, and conveyed in<g ref="char:EOLhyphen"/>to the maſs of blood, which being not fit for mixture and aſſimilation, is reſected and caſt forth as an Heterogenous matter: From hence is cauſed a commotion, or hermentation of the whole maſs of blood, which laſt ſo long till the extranious matter be caſt out, either by the Pores of the skin, Ureters, Inteſtins, or other emun<g ref="char:EOLhyphen"/>ctories.</p>
+                  <p>The Experiment may be proved in Wine; into which if you put any Hete<g ref="char:EOLhyphen"/>rogeneous matter, as a drop of a Candle, Sugar, or any Liquors, it will immedi<g ref="char:EOLhyphen"/>ately ferment, which will not ceaſe, till
+<pb n="65" facs="tcp:29449:38"/>the extraneous matter be thrown out, or ſeparated from the Wine, and lodged at the bottom of the Veſſel, and the whole body of the Wine remain pure and clear. Thus, we ſee, perſons after exceſs in eat<g ref="char:EOLhyphen"/>ing or drinking, fall into Fevers; the ferment of the ſtomach being diluted, and depraved by ſuch exceſs, and the parts deſigned for conveyance of chyle, or nu<g ref="char:EOLhyphen"/>triment, are obſtructed; ſo that an un<g ref="char:EOLhyphen"/>ſuteable chyme is ſent to the Veins, which the blood cannot admit of.</p>
+                  <p>So likewiſe we may obſerve from ſuch perſons as have fed upon ill diet a long time, as at Sea, or in Captivity, the body at length hath been accuſtomed to it; but when ſuch have returned home, and came to feed upon good and wholſom food, they have oftentimes fallen into very high Fe<g ref="char:EOLhyphen"/>vers; the reaſon of it may be this: The parts of the body deſigned for concoction were not acquainted with ſuch food, and through depravity could not digeſt them ſufficiently; or, if this food were digeſted into good Chyme, yet when it came into the veins, the blood could not admit of its mixture and aſſimilation, becauſe it is of a contrary nature to that which
+<pb n="66" facs="tcp:29449:39"/>was produced from the former ill diet.</p>
+                  <p>When this Chyme, from ſome ill food, or bad air, hath contracted a poyſonous nature; the blood touched with this ve<g ref="char:EOLhyphen"/>nomous Miaſme, is either too much fuſed, from whence follows a greater ebullition in the maſs of blood, by which the vital ſpi<g ref="char:EOLhyphen"/>rits are waſted and diſperſed; or ſome<g ref="char:EOLhyphen"/>times the blood is coagulated, by which its circulation is hindred, and a ſtagnation of that vital current follows, as in the high malignant and Peſtilential diſeaſes.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. V. <hi>Of proper Diet (to be obſerved) in Fevers.</hi>
+                  </head>
+                  <p>IN putrid Fevers, in the beginning and ſtate of the diſeaſe, a thin diet is ne<g ref="char:EOLhyphen"/>ceſſary; as Water-grewel, broth of Chicken, Mace-Ale, Barly-water, with cooling and cordial Syrrups: In the de<g ref="char:EOLhyphen"/>clination, Mutton or Veal-broth, or gra<g ref="char:EOLhyphen"/>vey of meat ſtued with a little Claret, and a chive of Mace: after the firſt Purge, (which is not to be adminiſtred till ſigns
+<pb n="67" facs="tcp:29449:39"/>of concoction appear in the Urine) Chicken boyled, or roaſted, Mutton, or Veal, <hi>&amp;c.</hi> may be allowed: For drink, White-wine Poſſet-drink, or ſmall Beer, with a fourth part of White-wine.</p>
+                  <p>In Malignant, the Diet muſt be thin, but ſpirituous; as, clear Sack poſſet-drink, Mace-ale, broth of Chicken, with Harts<g ref="char:EOLhyphen"/>horn, and cordial Flowers boyled in it: In the declination of the diſeaſe, White<g ref="char:EOLhyphen"/>wine Cawdles, gravy of Mutton ſtued with Claret, a little Mace and Nutmeg; then after purging, Fleſh may be permit<g ref="char:EOLhyphen"/>ted, <hi>viz.</hi> ſuch as is of eaſie digeſtion, as Chicken, young Rabits, Lamb, or Veal: the drink, during the encreaſe or ſtate of the diſeaſe, muſt be cordial Julips, but af<g ref="char:EOLhyphen"/>terward good freſh Beer, with half Ale, that is well boyled, and neither too new, or ſtale.</p>
+               </div>
+               <div n="6" type="section">
+                  <pb n="68" facs="tcp:29449:40"/>
+                  <head>SECT. VI. <hi>Of the method of curing putrid Fevers.</hi>
+                  </head>
+                  <p>FIrſt of all take care to clear the Sto<g ref="char:EOLhyphen"/>mach, if you be conſulted in time, and nature will bear it.</p>
+                  <p>Proper Vomits are theſe: <hi>Oxymel ſcilliticum, Oxymel ſimplex, Infuſio croci metallorum, Sal vitrioli, vel Gilla Theo<g ref="char:EOLhyphen"/>phraſti.</hi>
+                  </p>
+                  <p>Then preſcribe as a Julip this tincture of Roſes, <hi>viz.</hi>
+                  </p>
+                  <p>℞ <hi>Florum Roſarum Rubr.</hi> ℥j. <hi>Spir. vitrioli</hi> 
+                     <g ref="char:dram">ʒ</g>iv. <hi>Aquae Fontanae</hi> liv. <hi>in<g ref="char:EOLhyphen"/>fundantur in loco calido per horas ſex, po<g ref="char:EOLhyphen"/>ſtea coletur &amp; colaturae depuratae adde ſac<g ref="char:EOLhyphen"/>chari albiſſimi</hi> ℥iij. <hi>Aquae Roſarum Da<g ref="char:EOLhyphen"/>maſcenarum</hi> ℥iv. <hi>miſce, fiat tinctura, de quâ bibat aeger ad libitum.</hi>
+                  </p>
+                  <p>At other convenient times, let the Pa<g ref="char:EOLhyphen"/>tient take this Cordial;</p>
+                  <p>℞ <hi>Aquarum meliſſae, cardui benedicti, una</hi> ℥iij. <hi>perlarum Corallii praeparat. an.</hi> ℈j. <hi>ſyr. acetoſitatis citri</hi> ℥iſs <hi>miſce, fiat Julapium pro quatuor doſibus.</hi>
+                  </p>
+                  <pb n="69" facs="tcp:29449:40"/>
+                  <p>If the Fever increaſe, and violent ſymptoms appear, as Delirium, Phren<g ref="char:EOLhyphen"/>ſie, <hi>&amp;c.</hi> apply bliſtering playſters to the Neck, Arms and Anckles; and Her<g ref="char:EOLhyphen"/>rings, or this following Cataplaſme to the Feet.</p>
+                  <p>℞ <hi>Carnis Halecum ex muria</hi> ℥iij. <hi>Ra<g ref="char:EOLhyphen"/>dicis Brioniae</hi> ℥j. <hi>fol. Rutae</hi> M. j. <hi>Salis ni<g ref="char:EOLhyphen"/>gri</hi> 
+                     <g ref="char:dram">ʒ</g>vj. <hi>ſaponis nigri q. ſ. fiat cataplaſma plantis pedum applicandum.</hi>
+                  </p>
+                  <p>After which Applications adminiſter this following bolus;</p>
+                  <p>℞ <hi>Conſervae Roſarum Rubr. vitriolat.</hi> 
+                     <g ref="char:dram">ʒ</g>j. <hi>pulveris ex chelis cancrorum compoſiti</hi> ℈j. <hi>laudani Londinenſis gr.</hi> j. <hi>miſce, fiat bolus.</hi>
+                  </p>
+                  <p>Then adminiſter other proper Cor<g ref="char:EOLhyphen"/>dials, <hi>pro re nata,</hi> till you obſerve a good criſis, and ſigns of concoction in the U<g ref="char:EOLhyphen"/>rine; at which time, obſerve Natures indications; as, which way ſhe offers to drive out the morbifick matter, whether ſtill by the Pores of the skin, or by the In<g ref="char:EOLhyphen"/>teſtines; and according to your obſer<g ref="char:EOLhyphen"/>vation aſſiſt her either with proper Dia<g ref="char:EOLhyphen"/>phoreticks, ſuch as, <hi>Pulvis ex chelis can<g ref="char:EOLhyphen"/>crorum compoſitus, cum Rad. contrayervae, &amp; ſerpentariae;</hi> Or elſe with a lenitive Purge, ſuch as followeth; <hi>viz.</hi>
+                  </p>
+                  <pb n="70" facs="tcp:29449:41"/>
+                  <p>℞ <hi>Fol. endiviae, cichorei ana</hi> pj. <hi>coquan<g ref="char:EOLhyphen"/>tur in Aquae font.</hi> ℥vj. <hi>ad</hi> ℥iv. <hi>poſtea add. Rhabarbari electi</hi> 
+                     <g ref="char:dram">ʒ</g>ij. <hi>ſennae mundatae</hi> 
+                     <g ref="char:dram">ʒ</g>j. <hi>Zinziberis</hi> ℈j. <hi>ſam. Aniſi</hi> 
+                     <g ref="char:dram">ʒ</g>ſs. <hi>&amp; infundantur per noctem, mane colentur, &amp; colaturae adde ſyr. Roſarum ſolutiv.</hi> 
+                     <g ref="char:dram">ʒ</g>vj. <hi>miſce, fiat potio.</hi>
+                  </p>
+                  <p>The ſame Potion, or another, may be afterwards repeated as occaſion ſerves.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>SECT. VII. <hi>Of the method of curing malig<g ref="char:EOLhyphen"/>nant Fevers.</hi>
+                  </head>
+                  <p>IF you are conſulted in time, firſt clear the ſtomach with <hi>Oxymel ſeillitic.</hi> ℥iij. <hi>vel</hi> ℥iv. After its operation is ended, give this Cordial, <hi>viz.</hi>
+                  </p>
+                  <p>℞ <hi>Aquae cardui benedicti,</hi> ℥iij. <hi>corallii praeparati, boli armenii ana</hi> ℈j. <hi>diaſcor<g ref="char:EOLhyphen"/>dii</hi> 
+                     <g ref="char:dram">ʒ</g>ſs. <hi>ſyr. Garyophyllorum</hi> ℥j. <hi>miſce, fiat potio cordialis.</hi>
+                  </p>
+                  <p>Then let the Patient drink of this fol<g ref="char:EOLhyphen"/>lowing Julip every three hours: <hi>viz.</hi>
+                  </p>
+                  <p>℞ <hi>Cornu cervi uſti,</hi> ℥j. <hi>Rad. Scorzo<g ref="char:EOLhyphen"/>nerae</hi> ℥ſs. <hi>Rad. Contrayervae, Serpentariae, ana</hi> 
+                     <g ref="char:dram">ʒ</g>iſs. <hi>Lujulae</hi> M. j. <hi>coquantur in Aquae
+<pb n="71" facs="tcp:29449:41"/>fontanae</hi> Lb. iv. <hi>ad</hi> Lb. ij. <hi>colaturae adde ſyrrup. meliſſae, Garyophyllorum ana</hi> ℥j. <hi>confectionis de Hyacintho, elect. de ſaſſa<g ref="char:EOLhyphen"/>frâ ana</hi> 
+                     <g ref="char:dram">ʒ</g>ij. <hi>miſce, fiat Julapium, de quo capiat Cochlear. quatuor, tertiâ quavis borâ, tepide.</hi>
+                  </p>
+                  <p>Once in two hours, let the Patient take a ſpoonful of this Cordial, <hi>viz.</hi>
+                  </p>
+                  <p>℞ <hi>Aquae meliſſae, Scordii ana</hi> ℥iij. <hi>Aquae Pezoardicae,</hi> ℥j. <hi>ſyr. Garyophyll.</hi> ℥iſs. <hi>con<g ref="char:EOLhyphen"/>fectionis de Hyacinth.</hi> 
+                     <g ref="char:dram">ʒ</g>ij. <hi>corallii, per<g ref="char:EOLhyphen"/>larum, praeparat. ana</hi> ℈j. <hi>miſce, fiat Julapium cordiale, de quo capiat cochlear.</hi> j. <hi>ſecundâ quavis borâ tepide.</hi>
+                  </p>
+                  <p>If violent Symptoms appear, apply bliſters to the Neck, Wriſts, and Anckles; Pigeons, or Herrings, to the Feet; Chick<g ref="char:EOLhyphen"/>ens ſplit to the Heart and Stomach; Heighten your Cordials as the diſeaſe en<g ref="char:EOLhyphen"/>creaſeth, and change them often in theſe diſtempers: Adminiſter nothing cold, ei<g ref="char:EOLhyphen"/>ther actually, or potentially: when you ſee ſigns of concoction, you may admini<g ref="char:EOLhyphen"/>ſter a gentle Purge, ſuch as that before preſcribed in putrid Fevers.</p>
+                  <p>Thus have I given you <hi>(Phyſiophilus)</hi> that method which I have uſed with extra<g ref="char:EOLhyphen"/>ordinary ſucceſs ſome years; but except
+<pb n="72" facs="tcp:29449:42"/>there be judgment and experience join<g ref="char:EOLhyphen"/>ed with it, <hi>viz.</hi> to know a diſeaſe; and what doſes, according to the ſeveral ages and conſtitutions of Patients; when to adminiſter and apply Remedies; the beſt methods and medicines are uſed in vain.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>SECT. VIII. <hi>A diſcourſe of the diſeaſe called the Griping of the Guts.</hi>
+                  </head>
+                  <p>THere hath appeared <hi>(Phyſiophilus)</hi> amongſt many other diſeaſes, a ſtrange Monſter, called the Scurvy, acting its part upon the ſtage of this little world in various ſhapes, counterfeiting the guiſe of moſt other diſeaſes: ſometimes it con<g ref="char:EOLhyphen"/>ſumes by little and little, as it were gra<g ref="char:EOLhyphen"/>ting and crumbling the body into the grave; then again it rends and diſtracts ſeparating the union of body and ſoul ſuddenly puffing out the lamp of life ſometimes it is couchant, other times ram<g ref="char:EOLhyphen"/>pant; ſo alternately chronick and acute.</p>
+                  <pb n="73" facs="tcp:29449:42"/>
+                  <p>But amongſt the many appearances of this Protean diſeaſe, there is none more eminently atrocious, than this termed the Griping of the Guts; and though by ſome, it may be accounted a ſubſtantial diſeaſe; it appears to my reaſon to be only a product, or an effect of a virulent ſcorbutick root.</p>
+                  <div type="part">
+                     <head>Of the ſigns Diagnoſtick of the Griping of the Guts.</head>
+                     <p>It ſeizeth the Patient with wringing gripes uſually, and oftentimes with in<g ref="char:EOLhyphen"/>tolerable racking, and convulſive pains: ſome have only a flux downward, others evacuate both by vomit and ſtool; they are accompanied with a Fever manifeſt, or hidden; giddineſs, great pains in the Head, Drowſineſs, Phrenſies, tedious Watchings, weakneſs of the Limbs, diffi<g ref="char:EOLhyphen"/>cult breathing, a weak and irregular Pulſe, pains in the ſides and loins, fluxes of blood, oppreſſion at the ſtomach, the urine for the moſt part like healthy per<g ref="char:EOLhyphen"/>ſons; but ſometimes it is thick and trou<g ref="char:EOLhyphen"/>bled, oftentimes ſpots appear of a red<g ref="char:EOLhyphen"/>diſh, or purple colour, being ſmall, and lying deep in the fleſh.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="74" facs="tcp:29449:43"/>
+                     <head>Prognoſticks in the Griping of the Guts.</head>
+                     <p>If a Fever, with other bad ſymptoms, as Lipothymie, Convulſion, Phren<g ref="char:EOLhyphen"/>ſies, <hi>&amp;c.</hi> be joined with theſe griping pains; the patient generally miſcarries, except the virulent Ichor be tranſmit<g ref="char:EOLhyphen"/>ted by large ſweats, or more gentle breathings, with eruptions of Puſtules, Spots, or red Blotches.</p>
+                     <p>If theſe malignant Gripes, joined with a Fever, invade any that have been de<g ref="char:EOLhyphen"/>bilitated by a long infirmity; or intem<g ref="char:EOLhyphen"/>perate perſons, the ferment of whoſe ſto<g ref="char:EOLhyphen"/>mach is diluted and depraved, the caſe is dangerous. Sometimes it happens, that the Torminous matter is tranſlated into the limbs, whereupon Palſie, Rheuma<g ref="char:EOLhyphen"/>tiſmus, or Gowt happen, to the preſer<g ref="char:EOLhyphen"/>vation of life.</p>
+                     <p>If none of theſe ſymptoms appear, the Patient recovers with little help of pro<g ref="char:EOLhyphen"/>per Remedies; but otherwiſe, not with<g ref="char:EOLhyphen"/>out great care and induſtry, annexed with medicines of ſome force and energy.</p>
+                  </div>
+               </div>
+               <div n="9" type="section">
+                  <pb n="75" facs="tcp:29449:43"/>
+                  <head>SECT. IX. <hi>Of the cauſe of the Griping of the Guts.</hi>
+                  </head>
+                  <p>ITs Cauſe may be ſuppoſed <hi>(Phyſiophi<g ref="char:EOLhyphen"/>lus)</hi> from an exorbitant acidity of the ſtomachs Ferment, occaſioned from the ill diſpoſition of the Air, Diet, Contagion, or Hereditary conſtitution: By this luxuri<g ref="char:EOLhyphen"/>ant exorbitancy of the ſtomachs Ferment, the food diſſolved and digeſted is con<g ref="char:EOLhyphen"/>verted into a juice of the ſame ſharp and corroding nature; and reſiſting the alte<g ref="char:EOLhyphen"/>ration and dulcoration deſigned by the Ferment, implanted in the inteſtins, by its acrimony frets, extimulates, and excites the expulſive faculty of thoſe parts, col<g ref="char:EOLhyphen"/>liquating the nitrous juices, turning them into an acid, fretting, and vexatious Ichor, bringing a damp upon the ſpirits, and if not timely prevented, totally ex<g ref="char:EOLhyphen"/>tinguiſhing them.</p>
+               </div>
+               <div n="10" type="section">
+                  <pb n="76" facs="tcp:29449:44"/>
+                  <head>SECT. X. <hi>Of the method of curing the Gri<g ref="char:EOLhyphen"/>ping of the Guts.</hi>
+                  </head>
+                  <p>IF conſulted in time, a gentle Vomit will be neceſſary, ſuch as <hi>Oxymel ſcilli<g ref="char:EOLhyphen"/>ticum,</hi> from ℥i. to ℥iv. after that ſome proper <hi>Diaphoretick,</hi> ſuch as <hi>Pulvis ex chelis cancrorum compoſitus, lapis contra<g ref="char:EOLhyphen"/>yervae,</hi> prepared Pearl and Coral; theſe do dulcorate acid and corroding juices, and relieve nature, by throwing out the offending humours, <hi>per poros cutis:</hi> Let the Patient drink Julips made of <hi>Cornu cervi uſt. Rad. ſcorzonerae, contrayervae, ſerpentariae, &amp;c.</hi> Adminiſter Cordials made of ſpirit of Juniper, Scurvy-graſs, Harts<g ref="char:EOLhyphen"/>horn, with proper Sytrups, <hi>Elixir pro<g ref="char:EOLhyphen"/>prietatis Par<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſi,</hi> Spirit of Tartar, Tin<g ref="char:EOLhyphen"/>cture of Coral, <hi>Haematitis</hi> or Blood<g ref="char:EOLhyphen"/>ſtone: proper chalybiate Medicines may be uſed at convenſent times, as the judi<g ref="char:EOLhyphen"/>cious Phyſician ſhall find occaſion.</p>
+                  <p>The Diet may be the ſame preſcribed in malignant Fevers.</p>
+                  <p>Let this ſhort diſcourſe ſuffice at pre<g ref="char:EOLhyphen"/>ſent. <hi>(Phyſiophilus;)</hi> as occaſion offers, and
+<pb n="77" facs="tcp:29449:44"/>acceptance anſwers, I ſhall be ready to ſerve you, and my Country, to the utmoſt of my power.</p>
+                  <q>
+                     <l>—Si quid ſcis rectius iſtis</l>
+                     <l>Candidus imperti; ſi non, his utere me<g ref="char:EOLhyphen"/>cum.</l>
+                  </q>
+               </div>
+            </div>
+            <closer>
+               <signed>From my dwelling, next door to <hi>Grey's</hi>-Inn-gate in <hi>Holbourn. July</hi> the 14th 1672.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>IN the Epiſtle to the Reader, line <hi>ult.</hi> for <hi>yours</hi> read <hi>your;</hi> pag. 34. lin. 1. for <hi>Halecium</hi> read <hi>Halecum;</hi> lin. 4. read <hi>cataplaſma;</hi> lin. 12. read <hi>extracti;</hi> lin. <hi>penult.</hi> read <hi>Helmontii;</hi> pag. 33. lin. 13. read <hi>conſervae.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:29449:45"/>
+            <pb facs="tcp:29449:45"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <hi>THe Introduction to the Diſcourſe of Agues.</hi> Page 1.</item>
+               <item>CAP. I. <hi>Of the Uſe and Offices of the Spleen and Stomach.</hi> p. 15.</item>
+               <item>CAP. II. <hi>A diſcourſe of the cauſe of intermitting Fe<g ref="char:EOLhyphen"/>vers or Agues.</hi> p. 19.</item>
+               <item>CAP. III. <hi>Of the Diagnoſtick ſignes of intermitting Fevers or Agues.</hi> p. 23.</item>
+               <item>CAP. IV. <hi>Of the Prognoſticks in Agues.</hi> p. 27.</item>
+               <item>CAP. V. <hi>Of the ſeveral Remedies uſed for the cure of Agues.</hi> p. 31.</item>
+               <item>CAP. VI. <hi>Of Charms uſed for the Cure of Agues, how they operate: with the dangerous con<g ref="char:EOLhyphen"/>ſequences that have attended them.</hi> p. 35.</item>
+               <item>CAP. VII. <hi>The Authors particular Method of curing all ſorts of Agues.</hi> p. 42.</item>
+               <pb facs="tcp:29449:46"/>
+               <item>CAP. VIII. <hi>Of the proper diet to be obſerved by ſuch as have Agues, and during my method of curing Agues.</hi> p. 45.</item>
+               <item>CAP. IX. <hi>Obſervations of this ſucceſsful method in ſome long tedious Quartans complicated with other Chronick diſeaſes.</hi> p. 47.</item>
+            </list>
+            <list>
+               <head>Appendix.</head>
+               <item>SECT. I. <hi>NAtures method in the time of ſickneſs, and by what means ſhe oppoſeth her enemies.</hi> p. 54.</item>
+               <item>SECT. II. <hi>Natures ſeveral indications in chronick and acute diſeaſes, according to which the Phyſician ought to frame his method of cure.</hi> p. 56.</item>
+               <item>SECT. III. <hi>A diſcourſe of the Cauſe and Cure of conti<g ref="char:EOLhyphen"/>nuing Fevers.</hi> p. 60.</item>
+               <pb facs="tcp:29449:46"/>
+               <item>SECT. IV. <hi>A diſcourſe of the cauſe of Fevers.</hi> p. 63.</item>
+               <item>SECT. V. <hi>Of proper Diet to be obſerved in Fevers.</hi> p. 66.</item>
+               <item>SECT. VI. <hi>Of the method of curing putrid Fevers.</hi> p. 68.</item>
+               <item>SECT. VII. <hi>Of the method of curing malignant Fe<g ref="char:EOLhyphen"/>vers.</hi> p. 70.</item>
+               <item>SECT. VIII. <hi>A diſcourſe of the diſeaſe called the Griping in the Guts.</hi> p. 72.</item>
+               <item>SECT. IX. <hi>Of the Cauſe of the Griping in the Guts.</hi> p. 75.</item>
+               <item>SECT. X. <hi>Of the method of curing the Griping of the Guts.</hi> p. 76.</item>
+            </list>
+            <pb facs="tcp:29449:47" rendition="simple:additions"/>
+            <pb facs="tcp:29449:47" rendition="simple:additions"/>
+            <pb facs="tcp:29449:48"/>
+            <pb facs="tcp:29449:48"/>
+         </div>
+      </back>
+   </text>
+</TEI>
